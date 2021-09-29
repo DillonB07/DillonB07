@@ -7,9 +7,9 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 
 #### My Links
 [![Portfolio](https://img.shields.io/website?down_color=darkred&down_message=Down&label=Portfolio&style=for-the-badge&up_color=lime&up_message=Visit&url=https%3A%2F%2Fdillonb07.is-a.dev)](https://dillonb07.is-a.dev)
-![Uptime Robot status](https://img.shields.io/uptimerobot/status/m789232721-836568ad133f7005b250a97e?style=for-the-badge)
-![GitHub](https://img.shields.io/website?down_color=darkred&down_message=Down&label=GitHub&logo=github&style=for-the-badge&up_color=lime&up_message=Visit&url=https%3A%2F%2Fgithub.com%2Fdillonb07)
-![Replit](https://img.shields.io/website?down_color=darkred&down_message=Down&label=Replit&logo=replit&style=for-the-badge&up_color=lime&up_message=Visit&url=https%3A%2F%2Freplit.com%2F%40DillonB07)
+[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m789232721-836568ad133f7005b250a97e?style=for-the-badge)](https://stats.uptimerobot.com/WpKLEujWZz)
+[![GitHub](https://img.shields.io/website?down_color=darkred&down_message=Down&label=GitHub&logo=github&style=for-the-badge&up_color=lime&up_message=Visit&url=https%3A%2F%2Fgithub.com%2Fdillonb07)](https://github.com/DillonB07)
+[![Replit](https://img.shields.io/website?down_color=darkred&down_message=Down&label=Replit&logo=replit&style=for-the-badge&up_color=lime&up_message=Visit&url=https%3A%2F%2Freplit.com%2F%40DillonB07)](https://replit.com/@DillonB07)
 #### Languages
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/html_intro.asp)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
