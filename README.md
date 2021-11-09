@@ -26,6 +26,12 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dillonb07&show_icons=true&theme=radical)](https://github.com/dillonb07)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillonb07&layout=compact&theme=radical)](https://github.com/dillonb07)
 
+
+#### More Detailed Stats
+
+![Metrics](https://github.com/DillonB07/DillonB07/blob/master/github-metrics.svg)
+
+
 <p align="center"> 
   Visitors<br />
   <img src="https://profile-counter.glitch.me/dillonb07/count.svg" />
