@@ -18,6 +18,7 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 [![Uptime Robot status](https://img.shields.io/uptimerobot/status/m789232721-836568ad133f7005b250a97e?style=for-the-badge)](https://stats.uptimerobot.com/WpKLEujWZz)
 [![GitHub](https://img.shields.io/website?down_color=darkred&down_message=Down&label=GitHub&logo=github&style=for-the-badge&up_color=lime&up_message=Visit&url=https%3A%2F%2Fgithub.com%2Fdillonb07)](https://github.com/DillonB07)
 [![Replit](https://img.shields.io/website?down_color=darkred&down_message=Down&label=Replit&logo=replit&style=for-the-badge&up_color=lime&up_message=Visit&url=https%3A%2F%2Freplit.com%2F%40DillonB07)](https://replit.com/@DillonB07)
+[![dev.to](https://img.shields.io/website?down_color=darkred&down_message=Down&label=dev.to&logo=dev.to&style=for-the-badge&up_color=lime&up_message=Visit&url=https%3A%2F%2Fdev.to%2FDillonB07)](https://dev.to/DillonB07)
 #### Languages
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://w3.org/html)
 [![CSS 3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&&logo=css3&logoColor=white)](https://w3.org/css)
