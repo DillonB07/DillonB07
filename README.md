@@ -1,7 +1,15 @@
 ### Hey!👋
 [![Banner](banner.png)](https://dillonb07.is-a.dev)
 
-Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally use Django if I'm making more complex applications or apps that use React.
+
+> I joined GitHub **0** years ago.
+
+Since then, I have pushed **319** commits, opened **20** issues, submitted **26** pull requests, received **11** stars across **29** personal projects and contributed to **24** public repositories.
+
+<br>
+Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
+
+<br>
 
 ### My Stuff
 
@@ -28,6 +36,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillonb07&layout=compact&theme=radical)](https://github.com/dillonb07)
 
 
+#### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 #### More Detailed Stats
 
 ![Metrics](https://github.com/DillonB07/DillonB07/blob/master/github-metrics.svg)
@@ -52,3 +65,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
