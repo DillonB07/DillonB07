@@ -4,7 +4,7 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **328** commits, opened **21** issues, submitted **29** pull requests, received **12** stars across **28** personal projects and contributed to **25** public repositories.
+Since then, I have pushed **329** commits, opened **21** issues, submitted **29** pull requests, received **12** stars across **28** personal projects and contributed to **25** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
@@ -32,20 +32,16 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
-#### Stats
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dillonb07&show_icons=true&theme=radical)](https://github.com/dillonb07)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillonb07&layout=compact&theme=radical)](https://github.com/dillonb07)
-
 
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3929](https://github.com/github/gitignore/pull/3929) in [github/gitignore](https://github.com/github/gitignore)
-2. 🗣 Commented on [#3929](https://github.com/github/gitignore/issues/3929) in [github/gitignore](https://github.com/github/gitignore)
-3. 🗣 Commented on [#3929](https://github.com/github/gitignore/issues/3929) in [github/gitignore](https://github.com/github/gitignore)
-4. 🎉 Merged PR [#5](https://github.com/DillonB07/Spotter/pull/5) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
-5. 💪 Opened PR [#2](https://github.com/JBYT27/hello-world-in-many-langs/pull/2) in [JBYT27/hello-world-in-many-langs](https://github.com/JBYT27/hello-world-in-many-langs)
 <!--END_SECTION:activity-->
+
+#### Stats
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dillonb07&show_icons=true&theme=radical)](https://github.com/dillonb07)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillonb07&layout=compact&theme=radical)](https://github.com/dillonb07)
+
 
 #### More Detailed Stats
 
