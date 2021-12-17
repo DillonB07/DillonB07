@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/DillonB07/Spotter/issues/6) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
-2. 🗣 Commented on [#6](https://github.com/DillonB07/Spotter/issues/6) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
-3. ❌ Closed PR [#3929](https://github.com/github/gitignore/pull/3929) in [github/gitignore](https://github.com/github/gitignore)
-4. 🗣 Commented on [#3929](https://github.com/github/gitignore/issues/3929) in [github/gitignore](https://github.com/github/gitignore)
-5. 🗣 Commented on [#3929](https://github.com/github/gitignore/issues/3929) in [github/gitignore](https://github.com/github/gitignore)
 <!--END_SECTION:activity-->
 
 #### Stats
