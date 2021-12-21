@@ -4,7 +4,7 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **332** commits, opened **22** issues, submitted **29** pull requests, received **12** stars across **28** personal projects and contributed to **26** public repositories.
+Since then, I have pushed **342** commits, opened **28** issues, submitted **30** pull requests, received **12** stars across **28** personal projects and contributed to **27** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/TheIoLang/io/issues/17) in [TheIoLang/io](https://github.com/TheIoLang/io)
-2. 🗣 Commented on [#17](https://github.com/TheIoLang/io/issues/17) in [TheIoLang/io](https://github.com/TheIoLang/io)
-3. 🗣 Commented on [#841](https://github.com/microsoft/vscode-pull-request-github/issues/841) in [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github)
-4. 🗣 Commented on [#17](https://github.com/TheIoLang/io/issues/17) in [TheIoLang/io](https://github.com/TheIoLang/io)
-5. ❗️ Opened issue [#17](https://github.com/TheIoLang/io/issues/17) in [TheIoLang/io](https://github.com/TheIoLang/io)
 <!--END_SECTION:activity-->
 
 #### Stats
