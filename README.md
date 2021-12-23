@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/JBYT27/hello-world-in-many-langs/issues/6) in [JBYT27/hello-world-in-many-langs](https://github.com/JBYT27/hello-world-in-many-langs)
-2. 💪 Opened PR [#6](https://github.com/JBYT27/hello-world-in-many-langs/pull/6) in [JBYT27/hello-world-in-many-langs](https://github.com/JBYT27/hello-world-in-many-langs)
-3. ❗️ Closed issue [#1](https://github.com/DillonB07/Dizzle/issues/1) in [DillonB07/Dizzle](https://github.com/DillonB07/Dizzle)
-4. 🗣 Commented on [#1](https://github.com/DillonB07/Dizzle/issues/1) in [DillonB07/Dizzle](https://github.com/DillonB07/Dizzle)
-5. 🗣 Commented on [#1](https://github.com/TheIoLang/theiolang.github.io/issues/1) in [TheIoLang/theiolang.github.io](https://github.com/TheIoLang/theiolang.github.io)
 <!--END_SECTION:activity-->
 
 #### Stats
