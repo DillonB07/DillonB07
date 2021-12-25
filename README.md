@@ -4,7 +4,7 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **369** commits, opened **32** issues, submitted **32** pull requests, received **12** stars across **29** personal projects and contributed to **29** public repositories.
+Since then, I have pushed **372** commits, opened **42** issues, submitted **32** pull requests, received **12** stars across **29** personal projects and contributed to **29** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/codergautam/swordbattle.io/issues/56) in [codergautam/swordbattle.io](https://github.com/codergautam/swordbattle.io)
-2. ❗️ Opened issue [#1](https://github.com/kurt1288/Vocivos/issues/1) in [kurt1288/Vocivos](https://github.com/kurt1288/Vocivos)
-3. 🗣 Commented on [#6](https://github.com/JBYT27/hello-world-in-many-langs/issues/6) in [JBYT27/hello-world-in-many-langs](https://github.com/JBYT27/hello-world-in-many-langs)
-4. 💪 Opened PR [#6](https://github.com/JBYT27/hello-world-in-many-langs/pull/6) in [JBYT27/hello-world-in-many-langs](https://github.com/JBYT27/hello-world-in-many-langs)
-5. ❗️ Closed issue [#1](https://github.com/DillonB07/Dizzle/issues/1) in [DillonB07/Dizzle](https://github.com/DillonB07/Dizzle)
 <!--END_SECTION:activity-->
 
 #### Stats
