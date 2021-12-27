@@ -36,6 +36,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#841](https://github.com/microsoft/vscode-pull-request-github/issues/841) in [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github)
+2. ❗️ Opened issue [#12](https://github.com/DillonB07/SpaceTraders/issues/12) in [DillonB07/SpaceTraders](https://github.com/DillonB07/SpaceTraders)
+3. ❗️ Opened issue [#11](https://github.com/DillonB07/SpaceTraders/issues/11) in [DillonB07/SpaceTraders](https://github.com/DillonB07/SpaceTraders)
+4. ❗️ Opened issue [#10](https://github.com/DillonB07/SpaceTraders/issues/10) in [DillonB07/SpaceTraders](https://github.com/DillonB07/SpaceTraders)
+5. ❗️ Opened issue [#9](https://github.com/DillonB07/SpaceTraders/issues/9) in [DillonB07/SpaceTraders](https://github.com/DillonB07/SpaceTraders)
 <!--END_SECTION:activity-->
 
 #### Stats
