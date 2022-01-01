@@ -4,7 +4,7 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **376** commits, opened **43** issues, submitted **33** pull requests, received **12** stars across **29** personal projects and contributed to **31** public repositories.
+Since then, I have pushed **377** commits, opened **43** issues, submitted **33** pull requests, received **12** stars across **29** personal projects and contributed to **31** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#841](https://github.com/microsoft/vscode-pull-request-github/issues/841) in [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github)
-2. 🗣 Commented on [#123](https://github.com/SpaceTradersAPI/issues-and-suggestions/issues/123) in [SpaceTradersAPI/issues-and-suggestions](https://github.com/SpaceTradersAPI/issues-and-suggestions)
-3. ❗️ Closed issue [#123](https://github.com/SpaceTradersAPI/issues-and-suggestions/issues/123) in [SpaceTradersAPI/issues-and-suggestions](https://github.com/SpaceTradersAPI/issues-and-suggestions)
-4. 🗣 Commented on [#1](https://github.com/Flaptus/Flaptus/issues/1) in [Flaptus/Flaptus](https://github.com/Flaptus/Flaptus)
-5. 💪 Opened PR [#6](https://github.com/JBYT27/zsq/pull/6) in [JBYT27/zsq](https://github.com/JBYT27/zsq)
 <!--END_SECTION:activity-->
 
 #### Stats
