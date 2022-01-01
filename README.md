@@ -4,7 +4,7 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **372** commits, opened **42** issues, submitted **32** pull requests, received **12** stars across **29** personal projects and contributed to **29** public repositories.
+Since then, I have pushed **376** commits, opened **43** issues, submitted **33** pull requests, received **12** stars across **29** personal projects and contributed to **31** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#841](https://github.com/microsoft/vscode-pull-request-github/issues/841) in [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github)
-2. ❗️ Opened issue [#12](https://github.com/DillonB07/SpaceTraders/issues/12) in [DillonB07/SpaceTraders](https://github.com/DillonB07/SpaceTraders)
-3. ❗️ Opened issue [#11](https://github.com/DillonB07/SpaceTraders/issues/11) in [DillonB07/SpaceTraders](https://github.com/DillonB07/SpaceTraders)
-4. ❗️ Opened issue [#10](https://github.com/DillonB07/SpaceTraders/issues/10) in [DillonB07/SpaceTraders](https://github.com/DillonB07/SpaceTraders)
-5. ❗️ Opened issue [#9](https://github.com/DillonB07/SpaceTraders/issues/9) in [DillonB07/SpaceTraders](https://github.com/DillonB07/SpaceTraders)
 <!--END_SECTION:activity-->
 
 #### Stats
