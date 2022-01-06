@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/gosu/ruby-app/issues/12) in [gosu/ruby-app](https://github.com/gosu/ruby-app)
-2. 🗣 Commented on [#1](https://github.com/Flaptus/Flaptus/issues/1) in [Flaptus/Flaptus](https://github.com/Flaptus/Flaptus)
-3. 🎉 Merged PR [#7](https://github.com/DillonB07/Spotter/pull/7) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
-4. 💪 Opened PR [#20](https://github.com/replit/blog/pull/20) in [replit/blog](https://github.com/replit/blog)
-5. 🗣 Commented on [#1](https://github.com/Flaptus/Flaptus/issues/1) in [Flaptus/Flaptus](https://github.com/Flaptus/Flaptus)
 <!--END_SECTION:activity-->
 
 #### Stats
