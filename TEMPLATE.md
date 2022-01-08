@@ -39,11 +39,17 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 <!--END_SECTION:activity-->
 
 #### Stats
+
+##### Replit Stats
+
+![Replit Stats](https://ReplCards.coolcodersj.repl.co/card/profile/DillonB07.svg?theme=dark&fill=1A1B27&user=&accent=70a5fd)
+
+##### GitHub Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dillonb07&show_icons=true&theme=radical)](https://github.com/dillonb07)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillonb07&layout=compact&theme=radical)](https://github.com/dillonb07)
 
 
-#### More Detailed Stats
+##### More Detailed GitHub Stats
 
 ![Metrics](https://github.com/DillonB07/DillonB07/blob/master/github-metrics.svg)
 
