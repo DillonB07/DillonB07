@@ -36,6 +36,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#117](https://github.com/FooBarWidget/traveling-ruby/pull/117) in [FooBarWidget/traveling-ruby](https://github.com/FooBarWidget/traveling-ruby)
+2. 🗣 Commented on [#12](https://github.com/gosu/ruby-app/issues/12) in [gosu/ruby-app](https://github.com/gosu/ruby-app)
+3. 🗣 Commented on [#3](https://github.com/DillonB07/GitStats/issues/3) in [DillonB07/GitStats](https://github.com/DillonB07/GitStats)
+4. 🗣 Commented on [#3](https://github.com/DillonB07/GitStats/issues/3) in [DillonB07/GitStats](https://github.com/DillonB07/GitStats)
+5. ❗️ Opened issue [#3](https://github.com/DillonB07/GitStats/issues/3) in [DillonB07/GitStats](https://github.com/DillonB07/GitStats)
 <!--END_SECTION:activity-->
 
 #### Stats
