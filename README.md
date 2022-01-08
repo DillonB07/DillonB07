@@ -4,7 +4,7 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **396** commits, opened **45** issues, submitted **37** pull requests, received **14** stars across **31** personal projects and contributed to **35** public repositories.
+Since then, I have pushed **398** commits, opened **45** issues, submitted **37** pull requests, received **14** stars across **31** personal projects and contributed to **35** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
@@ -36,19 +36,20 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#117](https://github.com/FooBarWidget/traveling-ruby/pull/117) in [FooBarWidget/traveling-ruby](https://github.com/FooBarWidget/traveling-ruby)
-2. 🗣 Commented on [#12](https://github.com/gosu/ruby-app/issues/12) in [gosu/ruby-app](https://github.com/gosu/ruby-app)
-3. 🗣 Commented on [#3](https://github.com/DillonB07/GitStats/issues/3) in [DillonB07/GitStats](https://github.com/DillonB07/GitStats)
-4. 🗣 Commented on [#3](https://github.com/DillonB07/GitStats/issues/3) in [DillonB07/GitStats](https://github.com/DillonB07/GitStats)
-5. ❗️ Opened issue [#3](https://github.com/DillonB07/GitStats/issues/3) in [DillonB07/GitStats](https://github.com/DillonB07/GitStats)
 <!--END_SECTION:activity-->
 
 #### Stats
+
+##### Replit Stats
+
+![Replit Stats](https://ReplCards.coolcodersj.repl.co/card/profile/DillonB07.svg?theme=dark&fill=1A1B27&user=&accent=70a5fd)
+
+##### GitHub Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dillonb07&show_icons=true&theme=radical)](https://github.com/dillonb07)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillonb07&layout=compact&theme=radical)](https://github.com/dillonb07)
 
 
-#### More Detailed Stats
+##### More Detailed GitHub Stats
 
 ![Metrics](https://github.com/DillonB07/DillonB07/blob/master/github-metrics.svg)
 
