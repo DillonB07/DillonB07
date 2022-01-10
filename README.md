@@ -4,7 +4,7 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **406** commits, opened **45** issues, submitted **37** pull requests, received **14** stars across **30** personal projects and contributed to **35** public repositories.
+Since then, I have pushed **410** commits, opened **45** issues, submitted **37** pull requests, received **14** stars across **30** personal projects and contributed to **35** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/JBYT27/zsq/pull/7) in [JBYT27/zsq](https://github.com/JBYT27/zsq)
-2. 🗣 Commented on [#3](https://github.com/DillonB07/GitStats/issues/3) in [DillonB07/GitStats](https://github.com/DillonB07/GitStats)
-3. 💪 Opened PR [#117](https://github.com/FooBarWidget/traveling-ruby/pull/117) in [FooBarWidget/traveling-ruby](https://github.com/FooBarWidget/traveling-ruby)
-4. 🗣 Commented on [#12](https://github.com/gosu/ruby-app/issues/12) in [gosu/ruby-app](https://github.com/gosu/ruby-app)
-5. 🗣 Commented on [#3](https://github.com/DillonB07/GitStats/issues/3) in [DillonB07/GitStats](https://github.com/DillonB07/GitStats)
 <!--END_SECTION:activity-->
 
 #### Stats
