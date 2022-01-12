@@ -50,8 +50,8 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 ![Replit Stats](https://ReplCards.coolcodersj.repl.co/card/profile/DillonB07.svg?theme=dark&fill=1A1B27&user=&accent=70a5fd)
 
 ##### GitHub Stats
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dillonb07&show_icons=true&theme=radical)](https://github.com/dillonb07)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillonb07&layout=compact&theme=radical)](https://github.com/dillonb07)
+[![Anurag’s github stats](https://github-readme-stats-dillonb07.vercel.app/api?username=dillonb07&show_icons=true&theme=radical)](https://github.com/dillonb07)
+[![Top Langs](https://github-readme-stats-dillonb07.vercel.app/api/top-langs/?username=dillonb07&layout=compact&theme=radical)](https://github.com/dillonb07)
 
 
 ##### More Detailed GitHub Stats
