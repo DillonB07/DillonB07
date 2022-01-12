@@ -4,7 +4,7 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **420** commits, opened **45** issues, submitted **37** pull requests, received **14** stars across **30** personal projects and contributed to **35** public repositories.
+Since then, I have pushed **421** commits, opened **45** issues, submitted **37** pull requests, received **14** stars across **30** personal projects and contributed to **35** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/DillonB07/GitStats/issues/3) in [DillonB07/GitStats](https://github.com/DillonB07/GitStats)
-2. 🗣 Commented on [#3](https://github.com/DillonB07/GitStats/issues/3) in [DillonB07/GitStats](https://github.com/DillonB07/GitStats)
-3. 🗣 Commented on [#3](https://github.com/DillonB07/GitStats/issues/3) in [DillonB07/GitStats](https://github.com/DillonB07/GitStats)
-4. 🗣 Commented on [#3](https://github.com/DillonB07/GitStats/issues/3) in [DillonB07/GitStats](https://github.com/DillonB07/GitStats)
-5. ❗️ Reopened issue [#3](https://github.com/DillonB07/GitStats/issues/3) in [DillonB07/GitStats](https://github.com/DillonB07/GitStats)
 <!--END_SECTION:activity-->
 
 #### Stats
@@ -50,8 +45,8 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 ![Replit Stats](https://ReplCards.coolcodersj.repl.co/card/profile/DillonB07.svg?theme=dark&fill=1A1B27&user=&accent=70a5fd)
 
 ##### GitHub Stats
-[![Anurag’s github stats](https://github-readme-stats-dillonb07.vercel.app/api?username=dillonb07&show_icons=true&theme=radical)](https://github.com/dillonb07)
-[![Top Langs](https://github-readme-stats-dillonb07.vercel.app/api/top-langs/?username=dillonb07&layout=compact&theme=radical)](https://github.com/dillonb07)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dillonb07&show_icons=true&theme=radical)](https://github.com/dillonb07)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillonb07&layout=compact&theme=radical)](https://github.com/dillonb07)
 
 
 ##### More Detailed GitHub Stats
