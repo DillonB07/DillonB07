@@ -4,7 +4,7 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **475** commits, opened **50** issues, submitted **38** pull requests, received **14** stars across **30** personal projects and contributed to **36** public repositories.
+Since then, I have pushed **476** commits, opened **50** issues, submitted **38** pull requests, received **14** stars across **30** personal projects and contributed to **36** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/Tarcaxoxide/Sauce/issues/4) in [Tarcaxoxide/Sauce](https://github.com/Tarcaxoxide/Sauce)
-2. ❗️ Opened issue [#3](https://github.com/Tarcaxoxide/Sauce/issues/3) in [Tarcaxoxide/Sauce](https://github.com/Tarcaxoxide/Sauce)
-3. 🗣 Commented on [#57](https://github.com/freeCodeCamp/LearnToCodeRPG/issues/57) in [freeCodeCamp/LearnToCodeRPG](https://github.com/freeCodeCamp/LearnToCodeRPG)
-4. 🎉 Merged PR [#9](https://github.com/DillonB07/Spotter/pull/9) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
-5. 🎉 Merged PR [#8](https://github.com/DillonB07/Spotter/pull/8) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
 <!--END_SECTION:activity-->
 
 #### Stats
