@@ -4,7 +4,7 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **481** commits, opened **51** issues, submitted **38** pull requests, received **14** stars across **30** personal projects and contributed to **37** public repositories.
+Since then, I have pushed **482** commits, opened **51** issues, submitted **38** pull requests, received **14** stars across **30** personal projects and contributed to **37** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Tarcaxoxide/Sauce/issues/4) in [Tarcaxoxide/Sauce](https://github.com/Tarcaxoxide/Sauce)
-2. ❗️ Opened issue [#179](https://github.com/djyde/cusdis/issues/179) in [djyde/cusdis](https://github.com/djyde/cusdis)
-3. ❗️ Opened issue [#4](https://github.com/Tarcaxoxide/Sauce/issues/4) in [Tarcaxoxide/Sauce](https://github.com/Tarcaxoxide/Sauce)
-4. ❗️ Opened issue [#3](https://github.com/Tarcaxoxide/Sauce/issues/3) in [Tarcaxoxide/Sauce](https://github.com/Tarcaxoxide/Sauce)
-5. 🗣 Commented on [#57](https://github.com/freeCodeCamp/LearnToCodeRPG/issues/57) in [freeCodeCamp/LearnToCodeRPG](https://github.com/freeCodeCamp/LearnToCodeRPG)
 <!--END_SECTION:activity-->
 
 #### Stats
