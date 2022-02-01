@@ -36,6 +36,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1270](https://github.com/sublimehq/sublime_text/issues/1270) in [sublimehq/sublime_text](https://github.com/sublimehq/sublime_text)
+2. 🗣 Commented on [#10](https://github.com/DillonB07/Spotter/issues/10) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
+3. 🗣 Commented on [#10](https://github.com/DillonB07/Spotter/issues/10) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
+4. 🗣 Commented on [#10](https://github.com/DillonB07/Spotter/issues/10) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
+5. 🎉 Merged PR [#11](https://github.com/DillonB07/Spotter/pull/11) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
 <!--END_SECTION:activity-->
 
 #### Stats
