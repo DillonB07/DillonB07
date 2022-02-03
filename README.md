@@ -4,7 +4,7 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **509** commits, opened **54** issues, submitted **39** pull requests, received **14** stars across **32** personal projects and contributed to **39** public repositories.
+Since then, I have pushed **510** commits, opened **56** issues, submitted **39** pull requests, received **14** stars across **32** personal projects and contributed to **39** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/DillonB07/Spotter/pull/10) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
-2. 🗣 Commented on [#1270](https://github.com/sublimehq/sublime_text/issues/1270) in [sublimehq/sublime_text](https://github.com/sublimehq/sublime_text)
-3. 🗣 Commented on [#10](https://github.com/DillonB07/Spotter/issues/10) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
-4. 🗣 Commented on [#10](https://github.com/DillonB07/Spotter/issues/10) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
-5. 🗣 Commented on [#10](https://github.com/DillonB07/Spotter/issues/10) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
 <!--END_SECTION:activity-->
 
 #### Stats
