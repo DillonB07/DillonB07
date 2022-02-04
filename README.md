@@ -36,6 +36,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#15](https://github.com/ReplDepot/replit-cli/issues/15) in [ReplDepot/replit-cli](https://github.com/ReplDepot/replit-cli)
+2. ❗️ Opened issue [#14](https://github.com/ReplDepot/replit-cli/issues/14) in [ReplDepot/replit-cli](https://github.com/ReplDepot/replit-cli)
+3. 🎉 Merged PR [#10](https://github.com/DillonB07/Spotter/pull/10) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
+4. 🗣 Commented on [#1270](https://github.com/sublimehq/sublime_text/issues/1270) in [sublimehq/sublime_text](https://github.com/sublimehq/sublime_text)
+5. 🗣 Commented on [#10](https://github.com/DillonB07/Spotter/issues/10) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
 <!--END_SECTION:activity-->
 
 #### Stats
