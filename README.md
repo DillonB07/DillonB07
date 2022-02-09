@@ -36,6 +36,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#146](https://github.com/Homebrew/homebrew-portable-ruby/issues/146) in [Homebrew/homebrew-portable-ruby](https://github.com/Homebrew/homebrew-portable-ruby)
+2. 🗣 Commented on [#146](https://github.com/Homebrew/homebrew-portable-ruby/issues/146) in [Homebrew/homebrew-portable-ruby](https://github.com/Homebrew/homebrew-portable-ruby)
+3. ❗️ Opened issue [#146](https://github.com/Homebrew/homebrew-portable-ruby/issues/146) in [Homebrew/homebrew-portable-ruby](https://github.com/Homebrew/homebrew-portable-ruby)
+4. 🗣 Commented on [#142342](https://github.com/microsoft/vscode/issues/142342) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#116](https://github.com/replit/replit-py/issues/116) in [replit/replit-py](https://github.com/replit/replit-py)
 <!--END_SECTION:activity-->
 
 #### Stats
