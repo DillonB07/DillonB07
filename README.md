@@ -4,7 +4,7 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **526** commits, opened **57** issues, submitted **39** pull requests, received **14** stars across **33** personal projects and contributed to **40** public repositories.
+Since then, I have pushed **527** commits, opened **58** issues, submitted **39** pull requests, received **14** stars across **33** personal projects and contributed to **41** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#116](https://github.com/replit/replit-py/issues/116) in [replit/replit-py](https://github.com/replit/replit-py)
-2. 🗣 Commented on [#118](https://github.com/replit/replit-py/issues/118) in [replit/replit-py](https://github.com/replit/replit-py)
-3. ❗️ Opened issue [#142342](https://github.com/microsoft/vscode/issues/142342) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❗️ Closed issue [#15](https://github.com/ReplDepot/replit-cli/issues/15) in [ReplDepot/replit-cli](https://github.com/ReplDepot/replit-cli)
-5. 🗣 Commented on [#15](https://github.com/ReplDepot/replit-cli/issues/15) in [ReplDepot/replit-cli](https://github.com/ReplDepot/replit-cli)
 <!--END_SECTION:activity-->
 
 #### Stats
