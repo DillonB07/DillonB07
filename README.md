@@ -4,7 +4,7 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **537** commits, opened **58** issues, submitted **39** pull requests, received **14** stars across **35** personal projects and contributed to **41** public repositories.
+Since then, I have pushed **538** commits, opened **58** issues, submitted **39** pull requests, received **14** stars across **35** personal projects and contributed to **41** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/DillonB07/Spotter/pull/13) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
-2. 🗣 Commented on [#146](https://github.com/Homebrew/homebrew-portable-ruby/issues/146) in [Homebrew/homebrew-portable-ruby](https://github.com/Homebrew/homebrew-portable-ruby)
-3. 🗣 Commented on [#146](https://github.com/Homebrew/homebrew-portable-ruby/issues/146) in [Homebrew/homebrew-portable-ruby](https://github.com/Homebrew/homebrew-portable-ruby)
-4. ❗️ Opened issue [#146](https://github.com/Homebrew/homebrew-portable-ruby/issues/146) in [Homebrew/homebrew-portable-ruby](https://github.com/Homebrew/homebrew-portable-ruby)
-5. 🗣 Commented on [#142342](https://github.com/microsoft/vscode/issues/142342) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 #### Stats
