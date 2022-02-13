@@ -36,6 +36,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/DillonB07/Money-Run/pull/1) in [DillonB07/Money-Run](https://github.com/DillonB07/Money-Run)
+2. 🎉 Merged PR [#1](https://github.com/DillonB07/WPM-Test/pull/1) in [DillonB07/WPM-Test](https://github.com/DillonB07/WPM-Test)
+3. 🎉 Merged PR [#1](https://github.com/DillonB07/Dill_tils/pull/1) in [DillonB07/Dill_tils](https://github.com/DillonB07/Dill_tils)
+4. 🎉 Merged PR [#2](https://github.com/DillonB07/Dizzle/pull/2) in [DillonB07/Dizzle](https://github.com/DillonB07/Dizzle)
+5. 🎉 Merged PR [#14](https://github.com/DillonB07/Spotter/pull/14) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
 <!--END_SECTION:activity-->
 
 #### Stats
