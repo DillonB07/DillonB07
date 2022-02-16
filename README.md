@@ -4,7 +4,7 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **556** commits, opened **58** issues, submitted **39** pull requests, received **15** stars across **36** personal projects and contributed to **41** public repositories.
+Since then, I have pushed **556** commits, opened **58** issues, submitted **39** pull requests, received **15** stars across **35** personal projects and contributed to **41** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/DillonB07/GitAPI/pull/20) in [DillonB07/GitAPI](https://github.com/DillonB07/GitAPI)
-2. 🎉 Merged PR [#1](https://github.com/DillonB07/Money-Run/pull/1) in [DillonB07/Money-Run](https://github.com/DillonB07/Money-Run)
-3. 🎉 Merged PR [#1](https://github.com/DillonB07/WPM-Test/pull/1) in [DillonB07/WPM-Test](https://github.com/DillonB07/WPM-Test)
-4. 🎉 Merged PR [#1](https://github.com/DillonB07/Dill_tils/pull/1) in [DillonB07/Dill_tils](https://github.com/DillonB07/Dill_tils)
-5. 🎉 Merged PR [#2](https://github.com/DillonB07/Dizzle/pull/2) in [DillonB07/Dizzle](https://github.com/DillonB07/Dizzle)
 <!--END_SECTION:activity-->
 
 #### Stats
