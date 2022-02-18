@@ -4,7 +4,7 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **565** commits, opened **59** issues, submitted **39** pull requests, received **15** stars across **35** personal projects and contributed to **42** public repositories.
+Since then, I have pushed **566** commits, opened **59** issues, submitted **39** pull requests, received **15** stars across **35** personal projects and contributed to **42** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#120](https://github.com/replit/replit-py/issues/120) in [replit/replit-py](https://github.com/replit/replit-py)
-2. 🗣 Commented on [#120](https://github.com/replit/replit-py/issues/120) in [replit/replit-py](https://github.com/replit/replit-py)
-3. 🗣 Commented on [#13](https://github.com/DillonB07/GitAPI/issues/13) in [DillonB07/GitAPI](https://github.com/DillonB07/GitAPI)
-4. 🗣 Commented on [#3](https://github.com/VulcanWM/munity/issues/3) in [VulcanWM/munity](https://github.com/VulcanWM/munity)
-5. ❗️ Closed issue [#179](https://github.com/djyde/cusdis/issues/179) in [djyde/cusdis](https://github.com/djyde/cusdis)
 <!--END_SECTION:activity-->
 
 #### Stats
