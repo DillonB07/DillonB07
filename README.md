@@ -36,6 +36,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#15](https://github.com/VulcanWM/munity/issues/15) in [VulcanWM/munity](https://github.com/VulcanWM/munity)
+2. 🗣 Commented on [#15](https://github.com/VulcanWM/munity/issues/15) in [VulcanWM/munity](https://github.com/VulcanWM/munity)
+3. 🗣 Commented on [#15](https://github.com/VulcanWM/munity/issues/15) in [VulcanWM/munity](https://github.com/VulcanWM/munity)
+4. 🗣 Commented on [#15](https://github.com/VulcanWM/munity/issues/15) in [VulcanWM/munity](https://github.com/VulcanWM/munity)
+5. 🗣 Commented on [#11](https://github.com/VulcanWM/munity/issues/11) in [VulcanWM/munity](https://github.com/VulcanWM/munity)
 <!--END_SECTION:activity-->
 
 #### Stats
