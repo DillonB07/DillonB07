@@ -4,7 +4,7 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **602** commits, opened **60** issues, submitted **41** pull requests, received **15** stars across **37** personal projects and contributed to **44** public repositories.
+Since then, I have pushed **603** commits, opened **60** issues, submitted **41** pull requests, received **15** stars across **37** personal projects and contributed to **44** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Flaptus/Flaptus/issues/1) in [Flaptus/Flaptus](https://github.com/Flaptus/Flaptus)
-2. 🗣 Commented on [#13](https://github.com/DillonB07/GitAPI/issues/13) in [DillonB07/GitAPI](https://github.com/DillonB07/GitAPI)
-3. ❗️ Opened issue [#23](https://github.com/JDOG787/JDOG787/issues/23) in [JDOG787/JDOG787](https://github.com/JDOG787/JDOG787)
-4. 🗣 Commented on [#15](https://github.com/ReplDepot/replit-cli/issues/15) in [ReplDepot/replit-cli](https://github.com/ReplDepot/replit-cli)
-5. 🗣 Commented on [#15](https://github.com/ReplDepot/replit-cli/issues/15) in [ReplDepot/replit-cli](https://github.com/ReplDepot/replit-cli)
 <!--END_SECTION:activity-->
 
 #### Stats
