@@ -4,7 +4,7 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **609** commits, opened **61** issues, submitted **41** pull requests, received **15** stars across **37** personal projects and contributed to **45** public repositories.
+Since then, I have pushed **610** commits, opened **61** issues, submitted **41** pull requests, received **15** stars across **37** personal projects and contributed to **45** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Flaptus/Flaptus/issues/1) in [Flaptus/Flaptus](https://github.com/Flaptus/Flaptus)
-2. 🗣 Commented on [#1](https://github.com/Flaptus/Flaptus/issues/1) in [Flaptus/Flaptus](https://github.com/Flaptus/Flaptus)
-3. ❗️ Opened issue [#1770](https://github.com/stackblitz/core/issues/1770) in [stackblitz/core](https://github.com/stackblitz/core)
-4. 🗣 Commented on [#1](https://github.com/Flaptus/Flaptus/issues/1) in [Flaptus/Flaptus](https://github.com/Flaptus/Flaptus)
-5. 🗣 Commented on [#13](https://github.com/DillonB07/GitAPI/issues/13) in [DillonB07/GitAPI](https://github.com/DillonB07/GitAPI)
 <!--END_SECTION:activity-->
 
 #### Stats
