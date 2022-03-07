@@ -36,6 +36,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#142342](https://github.com/microsoft/vscode/issues/142342) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#10](https://github.com/frencojobs/vscode-vercel/issues/10) in [frencojobs/vscode-vercel](https://github.com/frencojobs/vscode-vercel)
+3. 💪 Opened PR [#35020](https://github.com/vercel/next.js/pull/35020) in [vercel/next.js](https://github.com/vercel/next.js)
+4. 🗣 Commented on [#1](https://github.com/Flaptus/Flaptus/issues/1) in [Flaptus/Flaptus](https://github.com/Flaptus/Flaptus)
+5. 🗣 Commented on [#1](https://github.com/Flaptus/Flaptus/issues/1) in [Flaptus/Flaptus](https://github.com/Flaptus/Flaptus)
 <!--END_SECTION:activity-->
 
 #### Stats
