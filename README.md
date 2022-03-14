@@ -7,7 +7,7 @@
 Since then, I have pushed **659** commits, opened **62** issues, submitted **42** pull requests, received **18** stars across **39** personal projects and contributed to **47** public repositories.
 
 <br>
-Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
+Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or Next.js for JavaScript, but I occasionally experiment and use different frameworks or languages.
 
 <br>
 
