@@ -36,6 +36,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#77](https://github.com/creativetimofficial/material-tailwind/issues/77) in [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind)
+2. ❗️ Opened issue [#1](https://github.com/SpaceFace02/Compendium_ML_Projects/issues/1) in [SpaceFace02/Compendium_ML_Projects](https://github.com/SpaceFace02/Compendium_ML_Projects)
+3. ❗️ Opened issue [#144987](https://github.com/microsoft/vscode/issues/144987) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#142342](https://github.com/microsoft/vscode/issues/142342) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#10](https://github.com/frencojobs/vscode-vercel/issues/10) in [frencojobs/vscode-vercel](https://github.com/frencojobs/vscode-vercel)
 <!--END_SECTION:activity-->
 
 #### Stats
