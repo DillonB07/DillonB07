@@ -4,7 +4,7 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **704** commits, opened **63** issues, submitted **40** pull requests, received **19** stars across **41** personal projects and contributed to **49** public repositories.
+Since then, I have pushed **705** commits, opened **63** issues, submitted **40** pull requests, received **19** stars across **41** personal projects and contributed to **49** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/SpaceFace02/Compendium_ML_Projects/issues/1) in [SpaceFace02/Compendium_ML_Projects](https://github.com/SpaceFace02/Compendium_ML_Projects)
-2. 🗣 Commented on [#22](https://github.com/ospfranco/sol/issues/22) in [ospfranco/sol](https://github.com/ospfranco/sol)
-3. ❗️ Opened issue [#22](https://github.com/ospfranco/sol/issues/22) in [ospfranco/sol](https://github.com/ospfranco/sol)
-4. ❗️ Closed issue [#77](https://github.com/creativetimofficial/material-tailwind/issues/77) in [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind)
-5. 🗣 Commented on [#77](https://github.com/creativetimofficial/material-tailwind/issues/77) in [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind)
 <!--END_SECTION:activity-->
 
 #### Stats
