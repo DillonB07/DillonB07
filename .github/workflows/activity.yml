@@ -2,7 +2,15 @@ name: Update README activity
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '15 */12 * * *' # every 12 hours
+  push:
+    branches:
+      - master
+      - main
+  pull_request:
+    branches:
+      - master
+      - main
   workflow_dispatch:
 
 jobs:
