@@ -4,10 +4,10 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **713** commits, opened **64** issues, submitted **41** pull requests, received **19** stars across **41** personal projects and contributed to **50** public repositories.
+Since then, I have pushed **717** commits, opened **64** issues, submitted **41** pull requests, received **19** stars across **41** personal projects and contributed to **50** public repositories.
 
 <br>
-Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python, but I occasionally experiment and use different frameworks or languages.
+Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
 
 <br>
 
@@ -25,29 +25,20 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org/)
 #### Frameworks
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com/)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 #### IDE's
 [![Replit](https://img.shields.io/website?down_color=darkblue&down_message=replit&label=%20&logo=replit&logoColor=lightgrey&style=for-the-badge&up_color=darkblue&up_message=replit&url=https%3A%2F%2Freplit.com%2F)](https://replit.com)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
-[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
+[![JetBrains](https://img.shields.io/badge/jetbrains-143?style=for-the-badge&logo=jetbrains&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/)
 
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1272](https://github.com/raycast/extensions/pull/1272) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 🗣 Commented on [#1263](https://github.com/raycast/extensions/issues/1263) in [raycast/extensions](https://github.com/raycast/extensions)
-3. ❗️ Opened issue [#1263](https://github.com/raycast/extensions/issues/1263) in [raycast/extensions](https://github.com/raycast/extensions)
-4. ❗️ Closed issue [#1](https://github.com/SpaceFace02/Compendium_ML_Projects/issues/1) in [SpaceFace02/Compendium_ML_Projects](https://github.com/SpaceFace02/Compendium_ML_Projects)
-5. 🗣 Commented on [#22](https://github.com/ospfranco/sol/issues/22) in [ospfranco/sol](https://github.com/ospfranco/sol)
 <!--END_SECTION:activity-->
 
 #### Stats
-
-##### Replit Stats
-
-![Replit Stats](https://ReplCards.coolcodersj.repl.co/card/profile/DillonB07.svg?theme=dark&fill=1A1B27&user=&accent=70a5fd)
 
 ##### GitHub Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dillonb07&show_icons=true&theme=radical)](https://github.com/dillonb07)
@@ -55,9 +46,13 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 
 
 ##### More Detailed GitHub Stats
-
+<details>
+  
+  <summary>Click to view more detailed stats!</summary>
+  
 ![Metrics](https://github.com/DillonB07/DillonB07/blob/master/github-metrics.svg)
 
+</details>
 
 <p align="center"> 
   Visitors<br />
