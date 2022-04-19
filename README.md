@@ -4,7 +4,7 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **760** commits, opened **65** issues, submitted **41** pull requests, received **19** stars across **41** personal projects and contributed to **51** public repositories.
+Since then, I have pushed **764** commits, opened **65** issues, submitted **41** pull requests, received **19** stars across **42** personal projects and contributed to **51** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5473](https://github.com/cli/cli/issues/5473) in [cli/cli](https://github.com/cli/cli)
-2. 💪 Opened PR [#1272](https://github.com/raycast/extensions/pull/1272) in [raycast/extensions](https://github.com/raycast/extensions)
-3. 🗣 Commented on [#1263](https://github.com/raycast/extensions/issues/1263) in [raycast/extensions](https://github.com/raycast/extensions)
-4. ❗️ Opened issue [#1263](https://github.com/raycast/extensions/issues/1263) in [raycast/extensions](https://github.com/raycast/extensions)
-5. ❗️ Closed issue [#1](https://github.com/SpaceFace02/Compendium_ML_Projects/issues/1) in [SpaceFace02/Compendium_ML_Projects](https://github.com/SpaceFace02/Compendium_ML_Projects)
 <!--END_SECTION:activity-->
 
 #### Stats
