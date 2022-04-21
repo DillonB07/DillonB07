@@ -36,6 +36,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#5473](https://github.com/cli/cli/issues/5473) in [cli/cli](https://github.com/cli/cli)
+2. ❗️ Opened issue [#5473](https://github.com/cli/cli/issues/5473) in [cli/cli](https://github.com/cli/cli)
+3. 💪 Opened PR [#1272](https://github.com/raycast/extensions/pull/1272) in [raycast/extensions](https://github.com/raycast/extensions)
+4. 🗣 Commented on [#1263](https://github.com/raycast/extensions/issues/1263) in [raycast/extensions](https://github.com/raycast/extensions)
+5. ❗️ Opened issue [#1263](https://github.com/raycast/extensions/issues/1263) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 
 #### Stats
