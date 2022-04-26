@@ -1,5 +1,5 @@
 ### Hey!👋
-[![Banner](banner.png)](https://dillonb07.is-a.dev)
+<!-- [![Banner](banner.png)](https://dillonb07.is-a.dev) -->
 
 
 > I joined GitHub **{{ ACCOUNT_AGE }}** years ago.
