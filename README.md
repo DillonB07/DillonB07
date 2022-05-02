@@ -4,7 +4,7 @@
 
 > I joined GitHub **0** years ago.
 
-Since then, I have pushed **807** commits, opened **67** issues, submitted **43** pull requests, received **18** stars across **43** personal projects and contributed to **52** public repositories.
+Since then, I have pushed **810** commits, opened **65** issues, submitted **41** pull requests, received **18** stars across **43** personal projects and contributed to **51** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -36,10 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1546](https://github.com/louislam/uptime-kuma/issues/1546) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-2. 🗣 Commented on [#5473](https://github.com/cli/cli/issues/5473) in [cli/cli](https://github.com/cli/cli)
-3. ❗️ Opened issue [#5473](https://github.com/cli/cli/issues/5473) in [cli/cli](https://github.com/cli/cli)
-4. 💪 Opened PR [#1272](https://github.com/raycast/extensions/pull/1272) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 
 #### Stats
