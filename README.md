@@ -4,7 +4,7 @@
 
 > I joined GitHub **1** years ago.
 
-Since then, I have pushed **849** commits, opened **67** issues, submitted **43** pull requests, received **18** stars across **44** personal projects and contributed to **52** public repositories.
+Since then, I have pushed **850** commits, opened **67** issues, submitted **43** pull requests, received **18** stars across **44** personal projects and contributed to **52** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -36,9 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#151](https://github.com/rkalis/truffle-plugin-verify/issues/151) in [rkalis/truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify)
-2. 🗣 Commented on [#1546](https://github.com/louislam/uptime-kuma/issues/1546) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-3. 🗣 Commented on [#5473](https://github.com/cli/cli/issues/5473) in [cli/cli](https://github.com/cli/cli)
 <!--END_SECTION:activity-->
 
 #### Stats
