@@ -4,7 +4,7 @@
 
 > I joined GitHub **1** years ago.
 
-Since then, I have pushed **898** commits, opened **68** issues, submitted **45** pull requests, received **18** stars across **44** personal projects and contributed to **50** public repositories.
+Since then, I have pushed **900** commits, opened **68** issues, submitted **45** pull requests, received **18** stars across **44** personal projects and contributed to **50** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#120](https://github.com/codergautam/swordbattle.io/issues/120) in [codergautam/swordbattle.io](https://github.com/codergautam/swordbattle.io)
-2. ❗️ Closed issue [#4756](https://github.com/python-poetry/poetry/issues/4756) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-3. 🗣 Commented on [#4756](https://github.com/python-poetry/poetry/issues/4756) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-4. 🗣 Commented on [#120](https://github.com/codergautam/swordbattle.io/issues/120) in [codergautam/swordbattle.io](https://github.com/codergautam/swordbattle.io)
-5. 🗣 Commented on [#120](https://github.com/codergautam/swordbattle.io/issues/120) in [codergautam/swordbattle.io](https://github.com/codergautam/swordbattle.io)
 <!--END_SECTION:activity-->
 
 #### Stats
