@@ -36,6 +36,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#2581](https://github.com/prettier/prettier-vscode/issues/2581) in [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode)
+2. 🗣 Commented on [#151293](https://github.com/microsoft/vscode/issues/151293) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#120](https://github.com/codergautam/swordbattle.io/issues/120) in [codergautam/swordbattle.io](https://github.com/codergautam/swordbattle.io)
+4. 🗣 Commented on [#120](https://github.com/codergautam/swordbattle.io/issues/120) in [codergautam/swordbattle.io](https://github.com/codergautam/swordbattle.io)
+5. 🗣 Commented on [#120](https://github.com/codergautam/swordbattle.io/issues/120) in [codergautam/swordbattle.io](https://github.com/codergautam/swordbattle.io)
 <!--END_SECTION:activity-->
 
 #### Stats
