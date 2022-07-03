@@ -4,7 +4,7 @@
 
 > I joined GitHub **1** years ago.
 
-Since then, I have pushed **984** commits, opened **67** issues, submitted **46** pull requests, received **18** stars across **49** personal projects and contributed to **46** public repositories.
+Since then, I have pushed **991** commits, opened **67** issues, submitted **46** pull requests, received **18** stars across **50** personal projects and contributed to **46** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#155](https://github.com/codergautam/swordbattle.io/issues/155) in [codergautam/swordbattle.io](https://github.com/codergautam/swordbattle.io)
-2. 💪 Opened PR [#18021](https://github.com/expo/expo/pull/18021) in [expo/expo](https://github.com/expo/expo)
-3. ❗️ Opened issue [#17993](https://github.com/expo/expo/issues/17993) in [expo/expo](https://github.com/expo/expo)
-4. 🗣 Commented on [#151](https://github.com/codergautam/swordbattle.io/issues/151) in [codergautam/swordbattle.io](https://github.com/codergautam/swordbattle.io)
-5. 🗣 Commented on [#151293](https://github.com/microsoft/vscode/issues/151293) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 #### Stats
