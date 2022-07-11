@@ -36,6 +36,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#514](https://github.com/oven-sh/bun/issues/514) in [oven-sh/bun](https://github.com/oven-sh/bun)
+2. 🗣 Commented on [#155](https://github.com/codergautam/swordbattle.io/issues/155) in [codergautam/swordbattle.io](https://github.com/codergautam/swordbattle.io)
+3. 💪 Opened PR [#18021](https://github.com/expo/expo/pull/18021) in [expo/expo](https://github.com/expo/expo)
+4. ❗️ Opened issue [#17993](https://github.com/expo/expo/issues/17993) in [expo/expo](https://github.com/expo/expo)
+5. 🗣 Commented on [#151](https://github.com/codergautam/swordbattle.io/issues/151) in [codergautam/swordbattle.io](https://github.com/codergautam/swordbattle.io)
 <!--END_SECTION:activity-->
 
 #### Stats
