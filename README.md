@@ -36,6 +36,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#1](https://github.com/DillonB07/deliveroo-clone/issues/1) in [DillonB07/deliveroo-clone](https://github.com/DillonB07/deliveroo-clone)
+2. ❗️ Opened issue [#1](https://github.com/DillonB07/deliveroo-clone/issues/1) in [DillonB07/deliveroo-clone](https://github.com/DillonB07/deliveroo-clone)
+3. 🗣 Commented on [#514](https://github.com/oven-sh/bun/issues/514) in [oven-sh/bun](https://github.com/oven-sh/bun)
+4. 🗣 Commented on [#514](https://github.com/oven-sh/bun/issues/514) in [oven-sh/bun](https://github.com/oven-sh/bun)
+5. 🗣 Commented on [#514](https://github.com/oven-sh/bun/issues/514) in [oven-sh/bun](https://github.com/oven-sh/bun)
 <!--END_SECTION:activity-->
 
 #### Stats
