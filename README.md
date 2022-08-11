@@ -36,6 +36,8 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1263](https://github.com/raycast/extensions/issues/1263) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 🗣 Commented on [#2581](https://github.com/prettier/prettier-vscode/issues/2581) in [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode)
 <!--END_SECTION:activity-->
 
 #### Stats
