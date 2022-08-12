@@ -4,7 +4,7 @@
 
 > I joined GitHub **1** years ago.
 
-Since then, I have pushed **1135** commits, opened **69** issues, submitted **46** pull requests, received **19** stars across **53** personal projects and contributed to **50** public repositories.
+Since then, I have pushed **1136** commits, opened **69** issues, submitted **46** pull requests, received **19** stars across **53** personal projects and contributed to **50** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -36,8 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1263](https://github.com/raycast/extensions/issues/1263) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 🗣 Commented on [#2581](https://github.com/prettier/prettier-vscode/issues/2581) in [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode)
 <!--END_SECTION:activity-->
 
 #### Stats
