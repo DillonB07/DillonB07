@@ -4,7 +4,7 @@
 
 > I joined GitHub **1** years ago.
 
-Since then, I have pushed **1176** commits, opened **71** issues, submitted **47** pull requests, received **20** stars across **53** personal projects and contributed to **50** public repositories.
+Since then, I have pushed **1177** commits, opened **71** issues, submitted **47** pull requests, received **20** stars across **53** personal projects and contributed to **50** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -36,10 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4772](https://github.com/pallets/flask/pull/4772) in [pallets/flask](https://github.com/pallets/flask)
-2. ❗️ Opened issue [#4771](https://github.com/pallets/flask/issues/4771) in [pallets/flask](https://github.com/pallets/flask)
-3. ❗️ Opened issue [#6](https://github.com/pikachub2005/replapi-it/issues/6) in [pikachub2005/replapi-it](https://github.com/pikachub2005/replapi-it)
-4. 🗣 Commented on [#1263](https://github.com/raycast/extensions/issues/1263) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 
 #### Stats
