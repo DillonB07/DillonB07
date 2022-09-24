@@ -36,6 +36,10 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#20](https://github.com/replit/blog/pull/20) in [replit/blog](https://github.com/replit/blog)
+2. ❗️ Opened issue [#5](https://github.com/connordennison/ReplitRPC/issues/5) in [connordennison/ReplitRPC](https://github.com/connordennison/ReplitRPC)
+3. 💪 Opened PR [#4772](https://github.com/pallets/flask/pull/4772) in [pallets/flask](https://github.com/pallets/flask)
+4. ❗️ Opened issue [#4771](https://github.com/pallets/flask/issues/4771) in [pallets/flask](https://github.com/pallets/flask)
 <!--END_SECTION:activity-->
 
 #### Stats
