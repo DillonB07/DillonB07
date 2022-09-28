@@ -4,7 +4,7 @@
 
 > I joined GitHub **1** years ago.
 
-Since then, I have pushed **1252** commits, opened **71** issues, submitted **47** pull requests, received **22** stars across **53** personal projects and contributed to **47** public repositories.
+Since then, I have pushed **1253** commits, opened **71** issues, submitted **47** pull requests, received **22** stars across **53** personal projects and contributed to **47** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110](https://github.com/codergautam/swordbattle.io/issues/110) in [codergautam/swordbattle.io](https://github.com/codergautam/swordbattle.io)
-2. ❌ Closed PR [#20](https://github.com/replit/blog/pull/20) in [replit/blog](https://github.com/replit/blog)
-3. ❗️ Opened issue [#5](https://github.com/connordennison/ReplitRPC/issues/5) in [connordennison/ReplitRPC](https://github.com/connordennison/ReplitRPC)
-4. 💪 Opened PR [#4772](https://github.com/pallets/flask/pull/4772) in [pallets/flask](https://github.com/pallets/flask)
-5. ❗️ Opened issue [#4771](https://github.com/pallets/flask/issues/4771) in [pallets/flask](https://github.com/pallets/flask)
 <!--END_SECTION:activity-->
 
 #### Stats
