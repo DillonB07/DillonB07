@@ -36,6 +36,9 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#110](https://github.com/codergautam/swordbattle.io/issues/110) in [codergautam/swordbattle.io](https://github.com/codergautam/swordbattle.io)
+2. ❌ Closed PR [#20](https://github.com/replit/blog/pull/20) in [replit/blog](https://github.com/replit/blog)
+3. ❗️ Opened issue [#5](https://github.com/connordennison/ReplitRPC/issues/5) in [connordennison/ReplitRPC](https://github.com/connordennison/ReplitRPC)
 <!--END_SECTION:activity-->
 
 #### Stats
