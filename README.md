@@ -4,7 +4,7 @@
 
 > I joined GitHub **1** years ago.
 
-Since then, I have pushed **1362** commits, opened **71** issues, submitted **48** pull requests, received **24** stars across **58** personal projects and contributed to **49** public repositories.
+Since then, I have pushed **1363** commits, opened **71** issues, submitted **48** pull requests, received **24** stars across **58** personal projects and contributed to **49** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -36,8 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1728](https://github.com/PKief/vscode-material-icon-theme/pull/1728) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
-2. 🗣 Commented on [#110](https://github.com/codergautam/swordbattle.io/issues/110) in [codergautam/swordbattle.io](https://github.com/codergautam/swordbattle.io)
 <!--END_SECTION:activity-->
 
 #### Stats
