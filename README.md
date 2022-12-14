@@ -4,7 +4,7 @@
 
 > I joined GitHub **1** years ago.
 
-Since then, I have pushed **1502** commits, opened **71** issues, submitted **51** pull requests, received **27** stars across **61** personal projects and contributed to **49** public repositories.
+Since then, I have pushed **1504** commits, opened **71** issues, submitted **51** pull requests, received **27** stars across **61** personal projects and contributed to **48** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/DaInfLoop/repl-auth-python/issues/3) in [DaInfLoop/repl-auth-python](https://github.com/DaInfLoop/repl-auth-python)
-2. 💪 Opened PR [#3](https://github.com/DaInfLoop/repl-auth-python/pull/3) in [DaInfLoop/repl-auth-python](https://github.com/DaInfLoop/repl-auth-python)
-3. 🎉 Merged PR [#1](https://github.com/DillonB07/repl-auth-python/pull/1) in [DillonB07/repl-auth-python](https://github.com/DillonB07/repl-auth-python)
-4. 💪 Opened PR [#2](https://github.com/DaInfLoop/repl-auth-python/pull/2) in [DaInfLoop/repl-auth-python](https://github.com/DaInfLoop/repl-auth-python)
-5. 💪 Opened PR [#1](https://github.com/DaInfLoop/repl-auth-python/pull/1) in [DaInfLoop/repl-auth-python](https://github.com/DaInfLoop/repl-auth-python)
 <!--END_SECTION:activity-->
 
 #### Stats
