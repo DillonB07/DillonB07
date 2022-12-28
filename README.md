@@ -36,6 +36,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#4](https://github.com/DillonB07/DillonB07/issues/4) in [DillonB07/DillonB07](https://github.com/DillonB07/DillonB07)
+2. 🗣 Commented on [#4](https://github.com/DillonB07/DillonB07/issues/4) in [DillonB07/DillonB07](https://github.com/DillonB07/DillonB07)
+3. 🗣 Commented on [#10](https://github.com/frencojobs/vscode-vercel/issues/10) in [frencojobs/vscode-vercel](https://github.com/frencojobs/vscode-vercel)
+4. 🗣 Commented on [#161](https://github.com/ShyykoSerhiy/vscode-spotify/issues/161) in [ShyykoSerhiy/vscode-spotify](https://github.com/ShyykoSerhiy/vscode-spotify)
+5. 🗣 Commented on [#3](https://github.com/DaInfLoop/repl-auth-python/issues/3) in [DaInfLoop/repl-auth-python](https://github.com/DaInfLoop/repl-auth-python)
 <!--END_SECTION:activity-->
 
 #### Stats
