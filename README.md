@@ -4,7 +4,7 @@
 
 > I joined GitHub **1** years ago.
 
-Since then, I have pushed **1566** commits, opened **73** issues, submitted **51** pull requests, received **26** stars across **63** personal projects and contributed to **43** public repositories.
+Since then, I have pushed **1567** commits, opened **73** issues, submitted **51** pull requests, received **26** stars across **63** personal projects and contributed to **42** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Coding-Cactus/Discourse-Category-Watcher/issues/1) in [Coding-Cactus/Discourse-Category-Watcher](https://github.com/Coding-Cactus/Discourse-Category-Watcher)
-2. 🗣 Commented on [#3](https://github.com/the-glitch-network/DisFabric/issues/3) in [the-glitch-network/DisFabric](https://github.com/the-glitch-network/DisFabric)
-3. 🗣 Commented on [#3](https://github.com/the-glitch-network/DisFabric/issues/3) in [the-glitch-network/DisFabric](https://github.com/the-glitch-network/DisFabric)
-4. ❗️ Opened issue [#3](https://github.com/the-glitch-network/DisFabric/issues/3) in [the-glitch-network/DisFabric](https://github.com/the-glitch-network/DisFabric)
-5. ❗️ Closed issue [#4](https://github.com/DillonB07/DillonB07/issues/4) in [DillonB07/DillonB07](https://github.com/DillonB07/DillonB07)
 <!--END_SECTION:activity-->
 
 #### Stats
