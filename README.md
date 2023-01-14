@@ -4,7 +4,7 @@
 
 > I joined GitHub **1** years ago.
 
-Since then, I have pushed **1608** commits, opened **78** issues, submitted **56** pull requests, received **26** stars across **63** personal projects and contributed to **41** public repositories.
+Since then, I have pushed **1609** commits, opened **78** issues, submitted **56** pull requests, received **26** stars across **63** personal projects and contributed to **41** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/lafkpages/XL-Replit/issues/11) in [lafkpages/XL-Replit](https://github.com/lafkpages/XL-Replit)
-2. ❗️ Opened issue [#11](https://github.com/lafkpages/XL-Replit/issues/11) in [lafkpages/XL-Replit](https://github.com/lafkpages/XL-Replit)
-3. 🗣 Commented on [#10](https://github.com/lafkpages/XL-Replit/issues/10) in [lafkpages/XL-Replit](https://github.com/lafkpages/XL-Replit)
-4. ❗️ Opened issue [#10](https://github.com/lafkpages/XL-Replit/issues/10) in [lafkpages/XL-Replit](https://github.com/lafkpages/XL-Replit)
-5. 💪 Opened PR [#9](https://github.com/lafkpages/XL-Replit/pull/9) in [lafkpages/XL-Replit](https://github.com/lafkpages/XL-Replit)
 <!--END_SECTION:activity-->
 
 #### Stats
