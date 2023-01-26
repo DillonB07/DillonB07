@@ -4,7 +4,7 @@
 
 > I joined GitHub **1** years ago.
 
-Since then, I have pushed **1652** commits, opened **78** issues, submitted **57** pull requests, received **27** stars across **64** personal projects and contributed to **41** public repositories.
+Since then, I have pushed **1655** commits, opened **78** issues, submitted **57** pull requests, received **27** stars across **65** personal projects and contributed to **40** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/DillonB07/Studio-2023/pull/2) in [DillonB07/Studio-2023](https://github.com/DillonB07/Studio-2023)
-2. 🗣 Commented on [#2](https://github.com/DillonB07/Studio-2023/issues/2) in [DillonB07/Studio-2023](https://github.com/DillonB07/Studio-2023)
-3. 🎉 Merged PR [#1](https://github.com/DillonB07/Studio-2023/pull/1) in [DillonB07/Studio-2023](https://github.com/DillonB07/Studio-2023)
-4. 🗣 Commented on [#20](https://github.com/PseudocodeEditor/editor/issues/20) in [PseudocodeEditor/editor](https://github.com/PseudocodeEditor/editor)
-5. 💪 Opened PR [#4566](https://github.com/is-a-dev/register/pull/4566) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 #### Stats
