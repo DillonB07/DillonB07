@@ -36,6 +36,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Replit-Community-Collabs/Discord-Bot/pull/1) in [Replit-Community-Collabs/Discord-Bot](https://github.com/Replit-Community-Collabs/Discord-Bot)
+2. 🎉 Merged PR [#2](https://github.com/DillonB07/Studio-2023/pull/2) in [DillonB07/Studio-2023](https://github.com/DillonB07/Studio-2023)
+3. 🗣 Commented on [#2](https://github.com/DillonB07/Studio-2023/issues/2) in [DillonB07/Studio-2023](https://github.com/DillonB07/Studio-2023)
+4. 🎉 Merged PR [#1](https://github.com/DillonB07/Studio-2023/pull/1) in [DillonB07/Studio-2023](https://github.com/DillonB07/Studio-2023)
+5. 🗣 Commented on [#20](https://github.com/PseudocodeEditor/editor/issues/20) in [PseudocodeEditor/editor](https://github.com/PseudocodeEditor/editor)
 <!--END_SECTION:activity-->
 
 #### Stats
