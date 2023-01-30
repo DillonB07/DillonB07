@@ -4,7 +4,7 @@
 
 > I joined GitHub **1** years ago.
 
-Since then, I have pushed **1668** commits, opened **78** issues, submitted **57** pull requests, received **27** stars across **67** personal projects and contributed to **39** public repositories.
+Since then, I have pushed **1669** commits, opened **78** issues, submitted **57** pull requests, received **27** stars across **67** personal projects and contributed to **39** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Replit-Community-Collabs/Discord-Bot/pull/3) in [Replit-Community-Collabs/Discord-Bot](https://github.com/Replit-Community-Collabs/Discord-Bot)
-2. 🎉 Merged PR [#2](https://github.com/Replit-Community-Collabs/Discord-Bot/pull/2) in [Replit-Community-Collabs/Discord-Bot](https://github.com/Replit-Community-Collabs/Discord-Bot)
-3. 🗣 Commented on [#10](https://github.com/lafkpages/XL-Replit/issues/10) in [lafkpages/XL-Replit](https://github.com/lafkpages/XL-Replit)
-4. 🎉 Merged PR [#1](https://github.com/Replit-Community-Collabs/Discord-Bot/pull/1) in [Replit-Community-Collabs/Discord-Bot](https://github.com/Replit-Community-Collabs/Discord-Bot)
-5. 🎉 Merged PR [#2](https://github.com/DillonB07/Studio-2023/pull/2) in [DillonB07/Studio-2023](https://github.com/DillonB07/Studio-2023)
 <!--END_SECTION:activity-->
 
 #### Stats
