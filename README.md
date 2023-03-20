@@ -4,7 +4,7 @@
 
 > I joined GitHub **1** years ago.
 
-Since then, I have pushed **1824** commits, opened **79** issues, submitted **57** pull requests, received **30** stars across **70** personal projects and contributed to **31** public repositories.
+Since then, I have pushed **1825** commits, opened **79** issues, submitted **57** pull requests, received **30** stars across **70** personal projects and contributed to **31** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -36,11 +36,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/buddy-codes/bddy-server-bot/pull/1) in [buddy-codes/bddy-server-bot](https://github.com/buddy-codes/bddy-server-bot)
-2. 🗣 Commented on [#21](https://github.com/lafkpages/XL-Replit/issues/21) in [lafkpages/XL-Replit](https://github.com/lafkpages/XL-Replit)
-3. 💪 Opened PR [#20](https://github.com/lafkpages/XL-Replit/pull/20) in [lafkpages/XL-Replit](https://github.com/lafkpages/XL-Replit)
-4. ❗️ Opened issue [#19](https://github.com/lafkpages/XL-Replit/issues/19) in [lafkpages/XL-Replit](https://github.com/lafkpages/XL-Replit)
-5. 💪 Opened PR [#1](https://github.com/7heMech/Replit-Graphql/pull/1) in [7heMech/Replit-Graphql](https://github.com/7heMech/Replit-Graphql)
 <!--END_SECTION:activity-->
 
 #### Stats
