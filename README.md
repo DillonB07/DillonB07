@@ -4,7 +4,7 @@
 
 > I joined GitHub **1** years ago.
 
-Since then, I have pushed **1887** commits, opened **85** issues, submitted **57** pull requests, received **31** stars across **71** personal projects and contributed to **30** public repositories.
+Since then, I have pushed **1897** commits, opened **85** issues, submitted **57** pull requests, received **31** stars across **71** personal projects and contributed to **30** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,10 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/DillonB07/Whoosh/pull/8) in [DillonB07/Whoosh](https://github.com/DillonB07/Whoosh)
-2. 🗣 Commented on [#22](https://github.com/lafkpages/XL-Replit/issues/22) in [lafkpages/XL-Replit](https://github.com/lafkpages/XL-Replit)
-3. ❗️ Opened issue [#6](https://github.com/DillonB07/Whoosh/issues/6) in [DillonB07/Whoosh](https://github.com/DillonB07/Whoosh)
-4. 💪 Opened PR [#1](https://github.com/buddy-codes/bddy-server-bot/pull/1) in [buddy-codes/bddy-server-bot](https://github.com/buddy-codes/bddy-server-bot)
 <!--END_SECTION:activity-->
 
 #### Stats
