@@ -4,7 +4,7 @@
 
 > I joined GitHub **1** years ago.
 
-Since then, I have pushed **1926** commits, opened **88** issues, submitted **57** pull requests, received **31** stars across **73** personal projects and contributed to **32** public repositories.
+Since then, I have pushed **1934** commits, opened **88** issues, submitted **58** pull requests, received **31** stars across **73** personal projects and contributed to **35** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,11 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4716](https://github.com/NixOS/nix/issues/4716) in [NixOS/nix](https://github.com/NixOS/nix)
-2. 🗣 Commented on [#4716](https://github.com/NixOS/nix/issues/4716) in [NixOS/nix](https://github.com/NixOS/nix)
-3. ❗️ Opened issue [#24](https://github.com/lafkpages/XL-Replit/issues/24) in [lafkpages/XL-Replit](https://github.com/lafkpages/XL-Replit)
-4. 🗣 Commented on [#10](https://github.com/lafkpages/XL-Replit/issues/10) in [lafkpages/XL-Replit](https://github.com/lafkpages/XL-Replit)
-5. 🎉 Merged PR [#8](https://github.com/DillonB07/Whoosh/pull/8) in [DillonB07/Whoosh](https://github.com/DillonB07/Whoosh)
 <!--END_SECTION:activity-->
 
 #### Stats
