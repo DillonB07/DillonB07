@@ -35,6 +35,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/lafkpages/sme/issues/1) in [lafkpages/sme](https://github.com/lafkpages/sme)
+2. ❗️ Closed issue [#9](https://github.com/DillonB07/Whoosh/issues/9) in [DillonB07/Whoosh](https://github.com/DillonB07/Whoosh)
+3. 🗣 Commented on [#9](https://github.com/DillonB07/Whoosh/issues/9) in [DillonB07/Whoosh](https://github.com/DillonB07/Whoosh)
+4. 🗣 Commented on [#30](https://github.com/DillonB07/Spotter/issues/30) in [DillonB07/Spotter](https://github.com/DillonB07/Spotter)
+5. 🗣 Commented on [#27](https://github.com/lafkpages/XL-Replit/issues/27) in [lafkpages/XL-Replit](https://github.com/lafkpages/XL-Replit)
 <!--END_SECTION:activity-->
 
 #### Stats
