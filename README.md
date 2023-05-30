@@ -35,6 +35,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/buddy-codes/bddy-portfolio/pull/1) in [buddy-codes/bddy-portfolio](https://github.com/buddy-codes/bddy-portfolio)
+2. 🗣 Commented on [#35](https://github.com/lafkpages/XL-Replit/issues/35) in [lafkpages/XL-Replit](https://github.com/lafkpages/XL-Replit)
+3. 🗣 Commented on [#2](https://github.com/DillonB07/WhooshServer/issues/2) in [DillonB07/WhooshServer](https://github.com/DillonB07/WhooshServer)
+4. ❗️ Opened issue [#1](https://github.com/lafkpages/sme/issues/1) in [lafkpages/sme](https://github.com/lafkpages/sme)
+5. ❗️ Closed issue [#9](https://github.com/DillonB07/Whoosh/issues/9) in [DillonB07/Whoosh](https://github.com/DillonB07/Whoosh)
 <!--END_SECTION:activity-->
 
 #### Stats
