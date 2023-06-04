@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2079** commits, opened **94** issues, submitted **60** pull requests, received **32** stars across **75** personal projects and contributed to **36** public repositories.
+Since then, I have pushed **2080** commits, opened **94** issues, submitted **60** pull requests, received **32** stars across **75** personal projects and contributed to **36** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,11 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#108](https://github.com/replit/upm/pull/108) in [replit/upm](https://github.com/replit/upm)
-2. ❗ Opened issue [#1](https://github.com/rayhanadev/Replit-Token-Dump/issues/1) in [rayhanadev/Replit-Token-Dump](https://github.com/rayhanadev/Replit-Token-Dump)
-3. 💪 Opened PR [#108](https://github.com/replit/upm/pull/108) in [replit/upm](https://github.com/replit/upm)
-4. ❌ Closed PR [#1](https://github.com/DillonB07/upm/pull/1) in [DillonB07/upm](https://github.com/DillonB07/upm)
-5. 💪 Opened PR [#1](https://github.com/buddy-codes/bddy-portfolio/pull/1) in [buddy-codes/bddy-portfolio](https://github.com/buddy-codes/bddy-portfolio)
 <!--END_SECTION:activity-->
 
 #### Stats
