@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2088** commits, opened **95** issues, submitted **60** pull requests, received **32** stars across **75** personal projects and contributed to **36** public repositories.
+Since then, I have pushed **2091** commits, opened **95** issues, submitted **60** pull requests, received **32** stars across **75** personal projects and contributed to **34** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,11 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#18](https://github.com/lafkpages/Nodeval/issues/18) in [lafkpages/Nodeval](https://github.com/lafkpages/Nodeval)
-2. ❌ Closed PR [#108](https://github.com/replit/upm/pull/108) in [replit/upm](https://github.com/replit/upm)
-3. ❗ Opened issue [#1](https://github.com/rayhanadev/Replit-Token-Dump/issues/1) in [rayhanadev/Replit-Token-Dump](https://github.com/rayhanadev/Replit-Token-Dump)
-4. 💪 Opened PR [#108](https://github.com/replit/upm/pull/108) in [replit/upm](https://github.com/replit/upm)
-5. ❌ Closed PR [#1](https://github.com/DillonB07/upm/pull/1) in [DillonB07/upm](https://github.com/DillonB07/upm)
 <!--END_SECTION:activity-->
 
 #### Stats
