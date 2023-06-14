@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2127** commits, opened **96** issues, submitted **61** pull requests, received **32** stars across **76** personal projects and contributed to **35** public repositories.
+Since then, I have pushed **2130** commits, opened **97** issues, submitted **62** pull requests, received **34** stars across **76** personal projects and contributed to **34** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,11 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#89](https://github.com/spicetify/spicetify-docs/pull/89) in [spicetify/spicetify-docs](https://github.com/spicetify/spicetify-docs)
-2. ❗ Opened issue [#40](https://github.com/lafkpages/XL-Replit/issues/40) in [lafkpages/XL-Replit](https://github.com/lafkpages/XL-Replit)
-3. ❗ Opened issue [#18](https://github.com/lafkpages/Nodeval/issues/18) in [lafkpages/Nodeval](https://github.com/lafkpages/Nodeval)
-4. ❌ Closed PR [#108](https://github.com/replit/upm/pull/108) in [replit/upm](https://github.com/replit/upm)
-5. ❗ Opened issue [#1](https://github.com/rayhanadev/Replit-Token-Dump/issues/1) in [rayhanadev/Replit-Token-Dump](https://github.com/rayhanadev/Replit-Token-Dump)
 <!--END_SECTION:activity-->
 
 #### Stats
