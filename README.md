@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2142** commits, opened **97** issues, submitted **62** pull requests, received **34** stars across **76** personal projects and contributed to **34** public repositories.
+Since then, I have pushed **2144** commits, opened **97** issues, submitted **62** pull requests, received **34** stars across **76** personal projects and contributed to **34** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,11 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1362](https://github.com/microsoft/vscode-eslint/issues/1362) in [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint)
-2. 💪 Opened PR [#44](https://github.com/lafkpages/XL-Replit/pull/44) in [lafkpages/XL-Replit](https://github.com/lafkpages/XL-Replit)
-3. 🎉 Merged PR [#7](https://github.com/DillonB07/Animal-Crossing-Music-Bot/pull/7) in [DillonB07/Animal-Crossing-Music-Bot](https://github.com/DillonB07/Animal-Crossing-Music-Bot)
-4. 🗣 Commented on [#7](https://github.com/DillonB07/Animal-Crossing-Music-Bot/issues/7) in [DillonB07/Animal-Crossing-Music-Bot](https://github.com/DillonB07/Animal-Crossing-Music-Bot)
-5. 🗣 Commented on [#7](https://github.com/DillonB07/Animal-Crossing-Music-Bot/issues/7) in [DillonB07/Animal-Crossing-Music-Bot](https://github.com/DillonB07/Animal-Crossing-Music-Bot)
 <!--END_SECTION:activity-->
 
 #### Stats
