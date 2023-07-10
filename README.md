@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2229** commits, opened **97** issues, submitted **62** pull requests, received **35** stars across **78** personal projects and contributed to **34** public repositories.
+Since then, I have pushed **2229** commits, opened **97** issues, submitted **62** pull requests, received **36** stars across **78** personal projects and contributed to **34** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
