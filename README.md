@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2260** commits, opened **96** issues, submitted **61** pull requests, received **34** stars across **79** personal projects and contributed to **34** public repositories.
+Since then, I have pushed **2261** commits, opened **96** issues, submitted **61** pull requests, received **34** stars across **79** personal projects and contributed to **34** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,9 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/DillonB07/Animal-Crossing-Music-Bot/issues/5#issuecomment-1618272956) in [DillonB07/Animal-Crossing-Music-Bot](https://github.com/DillonB07/Animal-Crossing-Music-Bot)
-2. 🗣 Commented on [#5](https://github.com/DillonB07/Animal-Crossing-Music-Bot/issues/5#issuecomment-1615960977) in [DillonB07/Animal-Crossing-Music-Bot](https://github.com/DillonB07/Animal-Crossing-Music-Bot)
-3. 🗣 Commented on [#5](https://github.com/DillonB07/Animal-Crossing-Music-Bot/issues/5#issuecomment-1604645349) in [DillonB07/Animal-Crossing-Music-Bot](https://github.com/DillonB07/Animal-Crossing-Music-Bot)
 <!--END_SECTION:activity-->
 
 #### Stats
