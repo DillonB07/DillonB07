@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2300** commits, opened **97** issues, submitted **62** pull requests, received **35** stars across **79** personal projects and contributed to **33** public repositories.
+Since then, I have pushed **2301** commits, opened **97** issues, submitted **62** pull requests, received **35** stars across **79** personal projects and contributed to **33** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,10 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#103](https://github.com/MCMi460/NSO-RPC/pull/103#issuecomment-1676394306) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
-2. 💪 Opened PR [#103](https://github.com/MCMi460/NSO-RPC/pull/103) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
-3. ❗ Opened issue [#102](https://github.com/MCMi460/NSO-RPC/issues/102) in [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC)
-4. 🗣 Commented on [#5](https://github.com/DillonB07/Animal-Crossing-Music-Bot/issues/5#issuecomment-1618272956) in [DillonB07/Animal-Crossing-Music-Bot](https://github.com/DillonB07/Animal-Crossing-Music-Bot)
 <!--END_SECTION:activity-->
 
 #### Stats
