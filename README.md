@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2340** commits, opened **99** issues, submitted **62** pull requests, received **35** stars across **80** personal projects and contributed to **35** public repositories.
+Since then, I have pushed **2341** commits, opened **99** issues, submitted **62** pull requests, received **35** stars across **80** personal projects and contributed to **35** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,11 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#41](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi/issues/41) in [Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi)
-2. 🔒 Closed issue [#8321](https://github.com/python-poetry/poetry/issues/8321) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-3. 🗣 Commented on [#8321](https://github.com/python-poetry/poetry/issues/8321#issuecomment-1681008682) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-4. ❗ Opened issue [#8321](https://github.com/python-poetry/poetry/issues/8321) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-5. 🗣 Commented on [#1129](https://github.com/clerkinc/javascript/issues/1129#issuecomment-1680650064) in [clerkinc/javascript](https://github.com/clerkinc/javascript)
 <!--END_SECTION:activity-->
 
 #### Stats
