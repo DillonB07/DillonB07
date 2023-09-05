@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2383** commits, opened **101** issues, submitted **63** pull requests, received **36** stars across **83** personal projects and contributed to **34** public repositories.
+Since then, I have pushed **2384** commits, opened **101** issues, submitted **63** pull requests, received **36** stars across **83** personal projects and contributed to **34** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,11 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Whoosh-Media/PythonTemplate/pull/2#issuecomment-1688168447) in [Whoosh-Media/PythonTemplate](https://github.com/Whoosh-Media/PythonTemplate)
-2. 💪 Opened PR [#2](https://github.com/Whoosh-Media/PythonTemplate/pull/2) in [Whoosh-Media/PythonTemplate](https://github.com/Whoosh-Media/PythonTemplate)
-3. 🗣 Commented on [#68](https://github.com/lafkpages/XL-Replit/issues/68#issuecomment-1686769444) in [lafkpages/XL-Replit](https://github.com/lafkpages/XL-Replit)
-4. 🎉 Merged PR [#1](https://github.com/Whoosh-Media/PythonTemplate/pull/1) in [Whoosh-Media/PythonTemplate](https://github.com/Whoosh-Media/PythonTemplate)
-5. ❗ Opened issue [#68](https://github.com/lafkpages/XL-Replit/issues/68) in [lafkpages/XL-Replit](https://github.com/lafkpages/XL-Replit)
 <!--END_SECTION:activity-->
 
 #### Stats
