@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2423** commits, opened **102** issues, submitted **63** pull requests, received **37** stars across **85** personal projects and contributed to **34** public repositories.
+Since then, I have pushed **2424** commits, opened **102** issues, submitted **63** pull requests, received **37** stars across **85** personal projects and contributed to **34** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,11 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/replit/upm/issues/84#issuecomment-1718351536) in [replit/upm](https://github.com/replit/upm)
-2. 🗣 Commented on [#123](https://github.com/Xujiayao/MCDiscordChat/issues/123#issuecomment-1713402885) in [Xujiayao/MCDiscordChat](https://github.com/Xujiayao/MCDiscordChat)
-3. 🗣 Commented on [#75](https://github.com/frqnny/mostructures/issues/75#issuecomment-1707425008) in [frqnny/mostructures](https://github.com/frqnny/mostructures)
-4. ❗ Opened issue [#75](https://github.com/frqnny/mostructures/issues/75) in [frqnny/mostructures](https://github.com/frqnny/mostructures)
-5. 🗣 Commented on [#2](https://github.com/Whoosh-Media/PythonTemplate/pull/2#issuecomment-1688168447) in [Whoosh-Media/PythonTemplate](https://github.com/Whoosh-Media/PythonTemplate)
 <!--END_SECTION:activity-->
 
 #### Stats
