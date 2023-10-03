@@ -35,6 +35,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1827](https://github.com/minecraft-dev/MinecraftDev/issues/1827#issuecomment-1742125943) in [minecraft-dev/MinecraftDev](https://github.com/minecraft-dev/MinecraftDev)
+2. 🗣 Commented on [#25](https://github.com/naturecodevoid/voicechat-discord/issues/25#issuecomment-1736198756) in [naturecodevoid/voicechat-discord](https://github.com/naturecodevoid/voicechat-discord)
+3. 🗣 Commented on [#84](https://github.com/replit/upm/issues/84#issuecomment-1718351536) in [replit/upm](https://github.com/replit/upm)
+4. 🗣 Commented on [#123](https://github.com/Xujiayao/MCDiscordChat/issues/123#issuecomment-1713402885) in [Xujiayao/MCDiscordChat](https://github.com/Xujiayao/MCDiscordChat)
+5. 🗣 Commented on [#75](https://github.com/frqnny/mostructures/issues/75#issuecomment-1707425008) in [frqnny/mostructures](https://github.com/frqnny/mostructures)
 <!--END_SECTION:activity-->
 
 #### Stats
