@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2463** commits, opened **105** issues, submitted **65** pull requests, received **39** stars across **86** personal projects and contributed to **36** public repositories.
+Since then, I have pushed **2464** commits, opened **105** issues, submitted **65** pull requests, received **40** stars across **86** personal projects and contributed to **36** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,11 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/codingMASTER398/noreplit.com/pull/2) in [codingMASTER398/noreplit.com](https://github.com/codingMASTER398/noreplit.com)
-2. 💪 Opened PR [#1](https://github.com/codingMASTER398/noreplit.com/pull/1) in [codingMASTER398/noreplit.com](https://github.com/codingMASTER398/noreplit.com)
-3. 🗣 Commented on [#1827](https://github.com/minecraft-dev/MinecraftDev/issues/1827#issuecomment-1742125943) in [minecraft-dev/MinecraftDev](https://github.com/minecraft-dev/MinecraftDev)
-4. 🗣 Commented on [#25](https://github.com/naturecodevoid/voicechat-discord/issues/25#issuecomment-1736198756) in [naturecodevoid/voicechat-discord](https://github.com/naturecodevoid/voicechat-discord)
-5. 🗣 Commented on [#84](https://github.com/replit/upm/issues/84#issuecomment-1718351536) in [replit/upm](https://github.com/replit/upm)
 <!--END_SECTION:activity-->
 
 #### Stats
