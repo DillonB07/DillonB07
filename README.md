@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2477** commits, opened **106** issues, submitted **66** pull requests, received **40** stars across **87** personal projects and contributed to **37** public repositories.
+Since then, I have pushed **2478** commits, opened **106** issues, submitted **66** pull requests, received **40** stars across **87** personal projects and contributed to **37** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,11 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/Lightman314/LightmansCurrencyFabric/pull/23) in [Lightman314/LightmansCurrencyFabric](https://github.com/Lightman314/LightmansCurrencyFabric)
-2. ❗ Opened issue [#22](https://github.com/Lightman314/LightmansCurrencyFabric/issues/22) in [Lightman314/LightmansCurrencyFabric](https://github.com/Lightman314/LightmansCurrencyFabric)
-3. 💪 Opened PR [#2](https://github.com/codingMASTER398/noreplit.com/pull/2) in [codingMASTER398/noreplit.com](https://github.com/codingMASTER398/noreplit.com)
-4. 💪 Opened PR [#1](https://github.com/codingMASTER398/noreplit.com/pull/1) in [codingMASTER398/noreplit.com](https://github.com/codingMASTER398/noreplit.com)
-5. 🗣 Commented on [#1827](https://github.com/minecraft-dev/MinecraftDev/issues/1827#issuecomment-1742125943) in [minecraft-dev/MinecraftDev](https://github.com/minecraft-dev/MinecraftDev)
 <!--END_SECTION:activity-->
 
 #### Stats
