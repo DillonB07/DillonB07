@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2491** commits, opened **106** issues, submitted **66** pull requests, received **40** stars across **88** personal projects and contributed to **35** public repositories.
+Since then, I have pushed **2493** commits, opened **106** issues, submitted **66** pull requests, received **40** stars across **88** personal projects and contributed to **35** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,11 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/Lightman314/LightmansCurrencyFabric/pull/23) in [Lightman314/LightmansCurrencyFabric](https://github.com/Lightman314/LightmansCurrencyFabric)
-2. ❗ Opened issue [#22](https://github.com/Lightman314/LightmansCurrencyFabric/issues/22) in [Lightman314/LightmansCurrencyFabric](https://github.com/Lightman314/LightmansCurrencyFabric)
-3. 💪 Opened PR [#2](https://github.com/codingMASTER398/noreplit.com/pull/2) in [codingMASTER398/noreplit.com](https://github.com/codingMASTER398/noreplit.com)
-4. 💪 Opened PR [#1](https://github.com/codingMASTER398/noreplit.com/pull/1) in [codingMASTER398/noreplit.com](https://github.com/codingMASTER398/noreplit.com)
-5. 🗣 Commented on [#1827](https://github.com/minecraft-dev/MinecraftDev/issues/1827#issuecomment-1742125943) in [minecraft-dev/MinecraftDev](https://github.com/minecraft-dev/MinecraftDev)
 <!--END_SECTION:activity-->
 
 #### Stats
@@ -47,13 +42,3 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 ##### GitHub Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dillonb07&show_icons=true&theme=radical)](https://github.com/dillonb07)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillonb07&layout=compact&theme=radical)](https://github.com/dillonb07)
-
-
-##### More Detailed GitHub Stats
-<details>
-  
-  <summary>Click to view more detailed stats!</summary>
-  
-![Metrics](https://github.com/DillonB07/DillonB07/blob/master/github-metrics.svg)
-
-</details>
