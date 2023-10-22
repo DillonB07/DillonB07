@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2506** commits, opened **106** issues, submitted **66** pull requests, received **41** stars across **88** personal projects and contributed to **35** public repositories.
+Since then, I have pushed **2510** commits, opened **106** issues, submitted **66** pull requests, received **41** stars across **88** personal projects and contributed to **35** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,11 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/Patbox/BanHammer/issues/34#issuecomment-1772690019) in [Patbox/BanHammer](https://github.com/Patbox/BanHammer)
-2. 💪 Opened PR [#23](https://github.com/Lightman314/LightmansCurrencyFabric/pull/23) in [Lightman314/LightmansCurrencyFabric](https://github.com/Lightman314/LightmansCurrencyFabric)
-3. ❗ Opened issue [#22](https://github.com/Lightman314/LightmansCurrencyFabric/issues/22) in [Lightman314/LightmansCurrencyFabric](https://github.com/Lightman314/LightmansCurrencyFabric)
-4. 💪 Opened PR [#2](https://github.com/codingMASTER398/noreplit.com/pull/2) in [codingMASTER398/noreplit.com](https://github.com/codingMASTER398/noreplit.com)
-5. 💪 Opened PR [#1](https://github.com/codingMASTER398/noreplit.com/pull/1) in [codingMASTER398/noreplit.com](https://github.com/codingMASTER398/noreplit.com)
 <!--END_SECTION:activity-->
 
 #### Stats
