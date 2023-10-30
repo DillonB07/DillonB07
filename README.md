@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2521** commits, opened **106** issues, submitted **67** pull requests, received **41** stars across **90** personal projects and contributed to **35** public repositories.
+Since then, I have pushed **2523** commits, opened **106** issues, submitted **67** pull requests, received **41** stars across **90** personal projects and contributed to **35** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,11 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/Lightman314/LightmansCurrencyFabric/issues/22#issuecomment-1783617278) in [Lightman314/LightmansCurrencyFabric](https://github.com/Lightman314/LightmansCurrencyFabric)
-2. 🗣 Commented on [#22](https://github.com/Lightman314/LightmansCurrencyFabric/issues/22#issuecomment-1782576191) in [Lightman314/LightmansCurrencyFabric](https://github.com/Lightman314/LightmansCurrencyFabric)
-3. 🎉 Merged PR [#1](https://github.com/DillonB07/ReplMC-Site/pull/1) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
-4. 💪 Opened PR [#1](https://github.com/DillonB07/ReplMC-Site/pull/1) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
-5. 🗣 Commented on [#34](https://github.com/Patbox/BanHammer/issues/34#issuecomment-1772690019) in [Patbox/BanHammer](https://github.com/Patbox/BanHammer)
 <!--END_SECTION:activity-->
 
 #### Stats
