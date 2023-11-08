@@ -35,6 +35,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/DillonB07/ReplMC-Site/pull/2) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
+2. 🗣 Commented on [#22](https://github.com/Lightman314/LightmansCurrencyFabric/issues/22#issuecomment-1783617278) in [Lightman314/LightmansCurrencyFabric](https://github.com/Lightman314/LightmansCurrencyFabric)
+3. 🗣 Commented on [#22](https://github.com/Lightman314/LightmansCurrencyFabric/issues/22#issuecomment-1782576191) in [Lightman314/LightmansCurrencyFabric](https://github.com/Lightman314/LightmansCurrencyFabric)
+4. 🎉 Merged PR [#1](https://github.com/DillonB07/ReplMC-Site/pull/1) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
+5. 💪 Opened PR [#1](https://github.com/DillonB07/ReplMC-Site/pull/1) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
 <!--END_SECTION:activity-->
 
 #### Stats
