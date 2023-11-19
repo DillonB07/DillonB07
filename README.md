@@ -35,11 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#77](https://github.com/Coding-Cactus/Apptus/issues/77) in [Coding-Cactus/Apptus](https://github.com/Coding-Cactus/Apptus)
-2. ❗ Opened issue [#76](https://github.com/Coding-Cactus/Apptus/issues/76) in [Coding-Cactus/Apptus](https://github.com/Coding-Cactus/Apptus)
-3. ❗ Opened issue [#75](https://github.com/Coding-Cactus/Apptus/issues/75) in [Coding-Cactus/Apptus](https://github.com/Coding-Cactus/Apptus)
-4. ❗ Opened issue [#74](https://github.com/Coding-Cactus/Apptus/issues/74) in [Coding-Cactus/Apptus](https://github.com/Coding-Cactus/Apptus)
-5. ❗ Opened issue [#73](https://github.com/Coding-Cactus/Apptus/issues/73) in [Coding-Cactus/Apptus](https://github.com/Coding-Cactus/Apptus)
 <!--END_SECTION:activity-->
 
 #### Stats
