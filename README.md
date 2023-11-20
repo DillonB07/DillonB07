@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2538** commits, opened **118** issues, submitted **66** pull requests, received **43** stars across **92** personal projects and contributed to **35** public repositories.
+Since then, I have pushed **2546** commits, opened **118** issues, submitted **66** pull requests, received **44** stars across **93** personal projects and contributed to **35** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,11 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#79](https://github.com/Coding-Cactus/Apptus/pull/79) in [Coding-Cactus/Apptus](https://github.com/Coding-Cactus/Apptus)
-2. 🗣 Commented on [#45](https://github.com/Coding-Cactus/Apptus/issues/45#issuecomment-1817717001) in [Coding-Cactus/Apptus](https://github.com/Coding-Cactus/Apptus)
-3. ❗ Opened issue [#77](https://github.com/Coding-Cactus/Apptus/issues/77) in [Coding-Cactus/Apptus](https://github.com/Coding-Cactus/Apptus)
-4. ❗ Opened issue [#76](https://github.com/Coding-Cactus/Apptus/issues/76) in [Coding-Cactus/Apptus](https://github.com/Coding-Cactus/Apptus)
-5. ❗ Opened issue [#75](https://github.com/Coding-Cactus/Apptus/issues/75) in [Coding-Cactus/Apptus](https://github.com/Coding-Cactus/Apptus)
 <!--END_SECTION:activity-->
 
 #### Stats
