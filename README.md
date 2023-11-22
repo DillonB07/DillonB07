@@ -35,6 +35,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#8](https://github.com/DillonB07/ReplMC-Site/pull/8) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
+2. 💪 Opened PR [#8](https://github.com/DillonB07/ReplMC-Site/pull/8) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
+3. 🎉 Merged PR [#7](https://github.com/DillonB07/ReplMC-Site/pull/7) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
+4. 💪 Opened PR [#7](https://github.com/DillonB07/ReplMC-Site/pull/7) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
+5. 💪 Opened PR [#79](https://github.com/Coding-Cactus/Apptus/pull/79) in [Coding-Cactus/Apptus](https://github.com/Coding-Cactus/Apptus)
 <!--END_SECTION:activity-->
 
 #### Stats
