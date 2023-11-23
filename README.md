@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2552** commits, opened **118** issues, submitted **68** pull requests, received **44** stars across **93** personal projects and contributed to **35** public repositories.
+Since then, I have pushed **2558** commits, opened **118** issues, submitted **68** pull requests, received **44** stars across **94** personal projects and contributed to **35** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,11 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/DillonB07/ReplMC-Site/pull/8) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
-2. 💪 Opened PR [#8](https://github.com/DillonB07/ReplMC-Site/pull/8) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
-3. 🎉 Merged PR [#7](https://github.com/DillonB07/ReplMC-Site/pull/7) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
-4. 💪 Opened PR [#7](https://github.com/DillonB07/ReplMC-Site/pull/7) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
-5. 💪 Opened PR [#79](https://github.com/Coding-Cactus/Apptus/pull/79) in [Coding-Cactus/Apptus](https://github.com/Coding-Cactus/Apptus)
 <!--END_SECTION:activity-->
 
 #### Stats
