@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2563** commits, opened **118** issues, submitted **68** pull requests, received **44** stars across **94** personal projects and contributed to **35** public repositories.
+Since then, I have pushed **2565** commits, opened **118** issues, submitted **68** pull requests, received **44** stars across **94** personal projects and contributed to **35** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,11 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#197](https://github.com/QuiltServerTools/Ledger/pull/197#issuecomment-1826804897) in [QuiltServerTools/Ledger](https://github.com/QuiltServerTools/Ledger)
-2. 🎉 Merged PR [#2](https://github.com/DillonB07/Astrobot/pull/2) in [DillonB07/Astrobot](https://github.com/DillonB07/Astrobot)
-3. 🎉 Merged PR [#1](https://github.com/DillonB07/Astrobot/pull/1) in [DillonB07/Astrobot](https://github.com/DillonB07/Astrobot)
-4. 🗣 Commented on [#1](https://github.com/DillonB07/Astrobot/pull/1#issuecomment-1823498809) in [DillonB07/Astrobot](https://github.com/DillonB07/Astrobot)
-5. 🎉 Merged PR [#3](https://github.com/DillonB07/Astrobot/pull/3) in [DillonB07/Astrobot](https://github.com/DillonB07/Astrobot)
 <!--END_SECTION:activity-->
 
 #### Stats
