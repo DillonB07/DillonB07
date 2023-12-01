@@ -35,6 +35,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#10](https://github.com/DillonB07/ReplMC-Site/pull/10) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
+2. 💪 Opened PR [#9](https://github.com/DillonB07/ReplMC-Site/pull/9) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
+3. 🗣 Commented on [#197](https://github.com/QuiltServerTools/Ledger/pull/197#issuecomment-1826804897) in [QuiltServerTools/Ledger](https://github.com/QuiltServerTools/Ledger)
+4. 🎉 Merged PR [#2](https://github.com/DillonB07/Astrobot/pull/2) in [DillonB07/Astrobot](https://github.com/DillonB07/Astrobot)
+5. 🎉 Merged PR [#1](https://github.com/DillonB07/Astrobot/pull/1) in [DillonB07/Astrobot](https://github.com/DillonB07/Astrobot)
 <!--END_SECTION:activity-->
 
 #### Stats
