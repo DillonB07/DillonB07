@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2572** commits, opened **118** issues, submitted **71** pull requests, received **44** stars across **94** personal projects and contributed to **36** public repositories.
+Since then, I have pushed **2560** commits, opened **118** issues, submitted **71** pull requests, received **44** stars across **94** personal projects and contributed to **36** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,11 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/DaInfLoop/AoC-Leaderboard-Bot/pull/3) in [DaInfLoop/AoC-Leaderboard-Bot](https://github.com/DaInfLoop/AoC-Leaderboard-Bot)
-2. 💪 Opened PR [#2](https://github.com/DaInfLoop/AoC-Leaderboard-Bot/pull/2) in [DaInfLoop/AoC-Leaderboard-Bot](https://github.com/DaInfLoop/AoC-Leaderboard-Bot)
-3. 🗣 Commented on [#9](https://github.com/DillonB07/ReplMC-Site/pull/9#issuecomment-1835720778) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
-4. 🎉 Merged PR [#9](https://github.com/DillonB07/ReplMC-Site/pull/9) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
-5. 🎉 Merged PR [#10](https://github.com/DillonB07/ReplMC-Site/pull/10) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
 <!--END_SECTION:activity-->
 
 #### Stats
