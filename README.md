@@ -35,6 +35,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#19534](https://github.com/JetBrains/swot/pull/19534) in [JetBrains/swot](https://github.com/JetBrains/swot)
+2. 💪 Opened PR [#3](https://github.com/DaInfLoop/AoC-Leaderboard-Bot/pull/3) in [DaInfLoop/AoC-Leaderboard-Bot](https://github.com/DaInfLoop/AoC-Leaderboard-Bot)
+3. 💪 Opened PR [#2](https://github.com/DaInfLoop/AoC-Leaderboard-Bot/pull/2) in [DaInfLoop/AoC-Leaderboard-Bot](https://github.com/DaInfLoop/AoC-Leaderboard-Bot)
+4. 🗣 Commented on [#9](https://github.com/DillonB07/ReplMC-Site/pull/9#issuecomment-1835720778) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
+5. 🎉 Merged PR [#9](https://github.com/DillonB07/ReplMC-Site/pull/9) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
 <!--END_SECTION:activity-->
 
 #### Stats
