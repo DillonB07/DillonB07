@@ -35,6 +35,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#59](https://github.com/cursorweb/Cycle-Bot-Game/pull/59) in [cursorweb/Cycle-Bot-Game](https://github.com/cursorweb/Cycle-Bot-Game)
+2. 🎉 Merged PR [#1](https://github.com/DillonB07/Club-Bot/pull/1) in [DillonB07/Club-Bot](https://github.com/DillonB07/Club-Bot)
+3. 💪 Opened PR [#30](https://github.com/PseudocodeEditor/editor/pull/30) in [PseudocodeEditor/editor](https://github.com/PseudocodeEditor/editor)
+4. 🎉 Merged PR [#12](https://github.com/DillonB07/ReplMC-Site/pull/12) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
+5. 💪 Opened PR [#12](https://github.com/DillonB07/ReplMC-Site/pull/12) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
 <!--END_SECTION:activity-->
 
 #### Stats
