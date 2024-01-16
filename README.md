@@ -35,11 +35,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/DillonB07/GitOps/pull/3) in [DillonB07/GitOps](https://github.com/DillonB07/GitOps)
-2. 💪 Opened PR [#59](https://github.com/cursorweb/Cycle-Bot-Game/pull/59) in [cursorweb/Cycle-Bot-Game](https://github.com/cursorweb/Cycle-Bot-Game)
-3. 🎉 Merged PR [#1](https://github.com/DillonB07/Club-Bot/pull/1) in [DillonB07/Club-Bot](https://github.com/DillonB07/Club-Bot)
-4. 💪 Opened PR [#30](https://github.com/PseudocodeEditor/editor/pull/30) in [PseudocodeEditor/editor](https://github.com/PseudocodeEditor/editor)
-5. 🎉 Merged PR [#12](https://github.com/DillonB07/ReplMC-Site/pull/12) in [DillonB07/ReplMC-Site](https://github.com/DillonB07/ReplMC-Site)
+1. 🎉 Merged PR [#2](https://github.com/DillonB07/GitOps/pull/2) in [DillonB07/GitOps](https://github.com/DillonB07/GitOps)
+2. 🎉 Merged PR [#4](https://github.com/DillonB07/GitOps/pull/4) in [DillonB07/GitOps](https://github.com/DillonB07/GitOps)
+3. 🎉 Merged PR [#3](https://github.com/DillonB07/GitOps/pull/3) in [DillonB07/GitOps](https://github.com/DillonB07/GitOps)
+4. 💪 Opened PR [#59](https://github.com/cursorweb/Cycle-Bot-Game/pull/59) in [cursorweb/Cycle-Bot-Game](https://github.com/cursorweb/Cycle-Bot-Game)
+5. 🎉 Merged PR [#1](https://github.com/DillonB07/Club-Bot/pull/1) in [DillonB07/Club-Bot](https://github.com/DillonB07/Club-Bot)
 <!--END_SECTION:activity-->
 
 #### Stats
