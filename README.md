@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2638** commits, opened **119** issues, submitted **76** pull requests, received **43** stars across **99** personal projects and contributed to **35** public repositories.
+Since then, I have pushed **2641** commits, opened **119** issues, submitted **76** pull requests, received **43** stars across **99** personal projects and contributed to **35** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,11 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4217](https://github.com/warpdotdev/Warp/issues/4217) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-2. 🎉 Merged PR [#10](https://github.com/DillonB07/GitOps/pull/10) in [DillonB07/GitOps](https://github.com/DillonB07/GitOps)
-3. 🎉 Merged PR [#9](https://github.com/DillonB07/GitOps/pull/9) in [DillonB07/GitOps](https://github.com/DillonB07/GitOps)
-4. 🎉 Merged PR [#8](https://github.com/DillonB07/GitOps/pull/8) in [DillonB07/GitOps](https://github.com/DillonB07/GitOps)
-5. 🎉 Merged PR [#7](https://github.com/DillonB07/GitOps/pull/7) in [DillonB07/GitOps](https://github.com/DillonB07/GitOps)
 <!--END_SECTION:activity-->
 
 #### Stats
