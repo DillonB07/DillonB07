@@ -35,6 +35,11 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#4217](https://github.com/warpdotdev/Warp/issues/4217#issuecomment-1967530227) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+2. ❌ Closed PR [#4320](https://github.com/warpdotdev/Warp/pull/4320) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+3. 💪 Opened PR [#4320](https://github.com/warpdotdev/Warp/pull/4320) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+4. ❗ Opened issue [#4217](https://github.com/warpdotdev/Warp/issues/4217) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+5. 🎉 Merged PR [#10](https://github.com/DillonB07/GitOps/pull/10) in [DillonB07/GitOps](https://github.com/DillonB07/GitOps)
 <!--END_SECTION:activity-->
 
 #### Stats
