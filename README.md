@@ -4,7 +4,7 @@
 
 > I joined GitHub **2** years ago.
 
-Since then, I have pushed **2662** commits, opened **119** issues, submitted **77** pull requests, received **43** stars across **100** personal projects and contributed to **32** public repositories.
+Since then, I have pushed **2663** commits, opened **119** issues, submitted **77** pull requests, received **43** stars across **100** personal projects and contributed to **32** public repositories.
 
 <br>
 Hey, I'm DillonB07, a web developer. I typically code with the Flask web framework for Python or with Next.js for React and JS, but I occasionally experiment and use different frameworks or languages.
@@ -35,11 +35,6 @@ Hey, I'm DillonB07, a web developer. I typically code with the Flask web framewo
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/DillonB07/Animal-Crossing-Music-Bot/issues/5#issuecomment-1976483698) in [DillonB07/Animal-Crossing-Music-Bot](https://github.com/DillonB07/Animal-Crossing-Music-Bot)
-2. 🗣 Commented on [#4217](https://github.com/warpdotdev/Warp/issues/4217#issuecomment-1973939160) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-3. 🗣 Commented on [#4217](https://github.com/warpdotdev/Warp/issues/4217#issuecomment-1973876666) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-4. 🗣 Commented on [#4217](https://github.com/warpdotdev/Warp/issues/4217#issuecomment-1967530227) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-5. ❌ Closed PR [#4320](https://github.com/warpdotdev/Warp/pull/4320) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
 <!--END_SECTION:activity-->
 
 #### Stats
