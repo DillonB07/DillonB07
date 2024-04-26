@@ -18,11 +18,6 @@ Hey, I'm DillonB07, an immersive media student and game developer. I typically u
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/DillonB07/Rhea/pull/1#issuecomment-2078296348) in [DillonB07/Rhea](https://github.com/DillonB07/Rhea)
-2. 🗣 Commented on [#942](https://github.com/wakatime/wakatime-cli/issues/942#issuecomment-2068025962) in [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli)
-3. 💪 Opened PR [#1](https://github.com/DillonB07/Rhea/pull/1) in [DillonB07/Rhea](https://github.com/DillonB07/Rhea)
-4. 🎉 Merged PR [#14](https://github.com/DillonB07/GitOps/pull/14) in [DillonB07/GitOps](https://github.com/DillonB07/GitOps)
-5. 🎉 Merged PR [#1](https://github.com/DillonB07/DeathDomeServer/pull/1) in [DillonB07/DeathDomeServer](https://github.com/DillonB07/DeathDomeServer)
 <!--END_SECTION:activity-->
 
 #### Stats
