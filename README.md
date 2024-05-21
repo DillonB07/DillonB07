@@ -18,11 +18,6 @@ Hey, I'm DillonB07, an immersive media student and game developer. I typically u
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/DillonB07/GitOps/pull/15) in [DillonB07/GitOps](https://github.com/DillonB07/GitOps)
-2. 🎉 Merged PR [#16](https://github.com/DillonB07/GitOps/pull/16) in [DillonB07/GitOps](https://github.com/DillonB07/GitOps)
-3. 🎉 Merged PR [#17](https://github.com/DillonB07/GitOps/pull/17) in [DillonB07/GitOps](https://github.com/DillonB07/GitOps)
-4. 💪 Opened PR [#101](https://github.com/comp500/quilt-serverside-mods/pull/101) in [comp500/quilt-serverside-mods](https://github.com/comp500/quilt-serverside-mods)
-5. 💪 Opened PR [#4](https://github.com/DillonB07/Rhea/pull/4) in [DillonB07/Rhea](https://github.com/DillonB07/Rhea)
 <!--END_SECTION:activity-->
 
 #### Stats
