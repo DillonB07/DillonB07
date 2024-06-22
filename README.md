@@ -4,7 +4,7 @@
 
 > I joined GitHub **3** years ago.
 
-Since then, I have pushed **2873** commits, opened **123** issues, submitted **93** pull requests, received **44** stars across **110** personal projects and contributed to **35** public repositories.
+Since then, I have pushed **2873** commits, opened **124** issues, submitted **93** pull requests, received **44** stars across **110** personal projects and contributed to **35** public repositories.
 
 <br>
 Hey, I'm DillonB07, an immersive media student and game developer. I typically use Unity and C# for my projects.
