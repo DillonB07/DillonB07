@@ -4,7 +4,7 @@
 
 > I joined GitHub **3** years ago.
 
-Since then, I have pushed **2880** commits, opened **126** issues, submitted **96** pull requests, received **45** stars across **113** personal projects and contributed to **33** public repositories.
+Since then, I have pushed **2882** commits, opened **127** issues, submitted **96** pull requests, received **45** stars across **114** personal projects and contributed to **33** public repositories.
 
 <br>
 Hey, I'm DillonB07, an immersive media student and game developer. I typically use Unity and C# for my projects.
@@ -18,11 +18,6 @@ Hey, I'm DillonB07, an immersive media student and game developer. I typically u
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1274](https://github.com/hackclub/site/pull/1274) in [hackclub/site](https://github.com/hackclub/site)
-2. 💪 Opened PR [#1274](https://github.com/hackclub/site/pull/1274) in [hackclub/site](https://github.com/hackclub/site)
-3. 🗣 Commented on [#1270](https://github.com/hackclub/site/pull/1270#issuecomment-2211894554) in [hackclub/site](https://github.com/hackclub/site)
-4. ❌ Closed PR [#1267](https://github.com/hackclub/site/pull/1267) in [hackclub/site](https://github.com/hackclub/site)
-5. 🗣 Commented on [#1270](https://github.com/hackclub/site/pull/1270#issuecomment-2211821984) in [hackclub/site](https://github.com/hackclub/site)
 <!--END_SECTION:activity-->
 
 #### Stats
