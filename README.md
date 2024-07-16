@@ -18,11 +18,6 @@ Hey, I'm DillonB07, an immersive media student and game developer. I typically u
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1959](https://github.com/hackclub/sprig/issues/1959#issuecomment-2227287037) in [hackclub/sprig](https://github.com/hackclub/sprig)
-2. ❗ Opened issue [#1959](https://github.com/hackclub/sprig/issues/1959) in [hackclub/sprig](https://github.com/hackclub/sprig)
-3. ❌ Closed PR [#1274](https://github.com/hackclub/site/pull/1274) in [hackclub/site](https://github.com/hackclub/site)
-4. 💪 Opened PR [#1274](https://github.com/hackclub/site/pull/1274) in [hackclub/site](https://github.com/hackclub/site)
-5. 🗣 Commented on [#1270](https://github.com/hackclub/site/pull/1270#issuecomment-2211894554) in [hackclub/site](https://github.com/hackclub/site)
 <!--END_SECTION:activity-->
 
 #### Stats
