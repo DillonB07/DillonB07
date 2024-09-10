@@ -18,11 +18,6 @@ Hey, I'm DillonB07, an immersive media student and game developer. I typically u
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/DillonB07/slackeline/pull/1#issuecomment-2336852409) in [DillonB07/slackeline](https://github.com/DillonB07/slackeline)
-2. 🎉 Merged PR [#1](https://github.com/DillonB07/slackeline/pull/1) in [DillonB07/slackeline](https://github.com/DillonB07/slackeline)
-3. 🎉 Merged PR [#1118](https://github.com/hackclub/dinosaurs/pull/1118) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-4. 🎉 Merged PR [#1116](https://github.com/hackclub/dinosaurs/pull/1116) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-5. 🎉 Merged PR [#1114](https://github.com/hackclub/dinosaurs/pull/1114) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
 <!--END_SECTION:activity-->
 
 #### Stats
