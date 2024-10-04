@@ -18,11 +18,6 @@ Hey, I'm DillonB07, an immersive media student and game developer. I typically u
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#121](https://github.com/hackclub/hack.af/pull/121) in [hackclub/hack.af](https://github.com/hackclub/hack.af)
-2. 🗣 Commented on [#2](https://github.com/DillonB07/slackeline/pull/2#issuecomment-2381619588) in [DillonB07/slackeline](https://github.com/DillonB07/slackeline)
-3. 🎉 Merged PR [#2](https://github.com/DillonB07/slackeline/pull/2) in [DillonB07/slackeline](https://github.com/DillonB07/slackeline)
-4. 🚀 Published release [v1.0.0 - Hello Slack!](https://github.com/DillonB07/SlackBridge/releases/tag/v1.0.0) in [DillonB07/SlackBridge](https://github.com/DillonB07/SlackBridge)
-5. 🗣 Commented on [#1098](https://github.com/hackclub/dinosaurs/pull/1098#issuecomment-2360683257) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
 <!--END_SECTION:activity-->
 
 #### Stats
