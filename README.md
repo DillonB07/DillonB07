@@ -18,11 +18,6 @@ Hey, I'm DillonB07, an immersive media student and game developer. I typically u
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DillonB07/SlickStats/pull/1) in [DillonB07/SlickStats](https://github.com/DillonB07/SlickStats)
-2. 🎉 Merged PR [#2](https://github.com/DillonB07/SlickStats/pull/2) in [DillonB07/SlickStats](https://github.com/DillonB07/SlickStats)
-3. 💪 Opened PR [#1](https://github.com/DillonB07/SlickStats/pull/1) in [DillonB07/SlickStats](https://github.com/DillonB07/SlickStats)
-4. 💪 Opened PR [#121](https://github.com/hackclub/hack.af/pull/121) in [hackclub/hack.af](https://github.com/hackclub/hack.af)
-5. 🗣 Commented on [#2](https://github.com/DillonB07/slackeline/pull/2#issuecomment-2381619588) in [DillonB07/slackeline](https://github.com/DillonB07/slackeline)
 <!--END_SECTION:activity-->
 
 #### Stats
