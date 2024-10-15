@@ -4,7 +4,7 @@
 
 > I joined GitHub **3** years ago.
 
-Since then, I have pushed **3105** commits, opened **133** issues, submitted **103** pull requests, received **45** stars across **126** personal projects and contributed to **28** public repositories.
+Since then, I have pushed **3106** commits, opened **133** issues, submitted **104** pull requests, received **45** stars across **126** personal projects and contributed to **29** public repositories.
 
 <br>
 Hey, I'm DillonB07, an immersive media student and game developer. I typically use Unity and C# for my projects.
@@ -18,11 +18,6 @@ Hey, I'm DillonB07, an immersive media student and game developer. I typically u
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1148](https://github.com/hackclub/dinosaurs/pull/1148) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-2. ❗ Opened issue [#4](https://github.com/DillonB07/MailTale/issues/4) in [DillonB07/MailTale](https://github.com/DillonB07/MailTale)
-3. ❗ Opened issue [#3](https://github.com/DillonB07/MailTale/issues/3) in [DillonB07/MailTale](https://github.com/DillonB07/MailTale)
-4. ❗ Opened issue [#2](https://github.com/DillonB07/MailTale/issues/2) in [DillonB07/MailTale](https://github.com/DillonB07/MailTale)
-5. ❗ Opened issue [#1](https://github.com/DillonB07/MailTale/issues/1) in [DillonB07/MailTale](https://github.com/DillonB07/MailTale)
 <!--END_SECTION:activity-->
 
 #### Stats
