@@ -18,11 +18,6 @@ Hey, I'm DillonB07, an immersive media student and game developer. I typically u
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1354](https://github.com/hackclub/dns/pull/1354) in [hackclub/dns](https://github.com/hackclub/dns)
-2. 🎉 Merged PR [#1148](https://github.com/hackclub/dinosaurs/pull/1148) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-3. ❗ Opened issue [#4](https://github.com/DillonB07/MailTale/issues/4) in [DillonB07/MailTale](https://github.com/DillonB07/MailTale)
-4. ❗ Opened issue [#3](https://github.com/DillonB07/MailTale/issues/3) in [DillonB07/MailTale](https://github.com/DillonB07/MailTale)
-5. ❗ Opened issue [#2](https://github.com/DillonB07/MailTale/issues/2) in [DillonB07/MailTale](https://github.com/DillonB07/MailTale)
 <!--END_SECTION:activity-->
 
 #### Stats
