@@ -18,6 +18,11 @@ Hey, I'm DillonB07, an immersive media student and game developer. I typically u
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#46](https://github.com/hackclub/events/pull/46#issuecomment-2419434825) in [hackclub/events](https://github.com/hackclub/events)
+2. 💪 Opened PR [#46](https://github.com/hackclub/events/pull/46) in [hackclub/events](https://github.com/hackclub/events)
+3. 💪 Opened PR [#97](https://github.com/hackclub/airbridge/pull/97) in [hackclub/airbridge](https://github.com/hackclub/airbridge)
+4. 💪 Opened PR [#1354](https://github.com/hackclub/dns/pull/1354) in [hackclub/dns](https://github.com/hackclub/dns)
+5. 🎉 Merged PR [#1148](https://github.com/hackclub/dinosaurs/pull/1148) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
 <!--END_SECTION:activity-->
 
 #### Stats
