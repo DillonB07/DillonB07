@@ -18,11 +18,6 @@ Hey, I'm DillonB07, an immersive media student and game developer. I typically u
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/hackclub/mc-ysws/pull/2#issuecomment-2425186122) in [hackclub/mc-ysws](https://github.com/hackclub/mc-ysws)
-2. 💪 Opened PR [#2](https://github.com/hackclub/mc-ysws/pull/2) in [hackclub/mc-ysws](https://github.com/hackclub/mc-ysws)
-3. 🗣 Commented on [#46](https://github.com/hackclub/events/pull/46#issuecomment-2419434825) in [hackclub/events](https://github.com/hackclub/events)
-4. 💪 Opened PR [#46](https://github.com/hackclub/events/pull/46) in [hackclub/events](https://github.com/hackclub/events)
-5. 💪 Opened PR [#97](https://github.com/hackclub/airbridge/pull/97) in [hackclub/airbridge](https://github.com/hackclub/airbridge)
 <!--END_SECTION:activity-->
 
 #### Stats
