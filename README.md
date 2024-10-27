@@ -18,11 +18,6 @@ Hey, I'm DillonB07, an immersive media student and game developer. I typically u
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Revolution-Hacks/revolution/pull/12) in [Revolution-Hacks/revolution](https://github.com/Revolution-Hacks/revolution)
-2. 🗣 Commented on [#8](https://github.com/Revolution-Hacks/revolution/pull/8#issuecomment-2432956054) in [Revolution-Hacks/revolution](https://github.com/Revolution-Hacks/revolution)
-3. 🗣 Commented on [#8](https://github.com/Revolution-Hacks/revolution/pull/8#issuecomment-2432947302) in [Revolution-Hacks/revolution](https://github.com/Revolution-Hacks/revolution)
-4. 🗣 Commented on [#3](https://github.com/Revolution-Hacks/revolution/issues/3#issuecomment-2432848301) in [Revolution-Hacks/revolution](https://github.com/Revolution-Hacks/revolution)
-5. 🗣 Commented on [#2](https://github.com/hackclub/mc-ysws/pull/2#issuecomment-2429277255) in [hackclub/mc-ysws](https://github.com/hackclub/mc-ysws)
 <!--END_SECTION:activity-->
 
 #### Stats
