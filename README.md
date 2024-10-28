@@ -18,11 +18,6 @@ Hey, I'm DillonB07, an immersive media student and game developer. I typically u
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Transcental/slackeline/pull/4) in [Transcental/slackeline](https://github.com/Transcental/slackeline)
-2. 🎉 Merged PR [#3](https://github.com/Transcental/slackeline/pull/3) in [Transcental/slackeline](https://github.com/Transcental/slackeline)
-3. 🎉 Merged PR [#12](https://github.com/Revolution-Hacks/revolution/pull/12) in [Revolution-Hacks/revolution](https://github.com/Revolution-Hacks/revolution)
-4. 🗣 Commented on [#8](https://github.com/Revolution-Hacks/revolution/pull/8#issuecomment-2432956054) in [Revolution-Hacks/revolution](https://github.com/Revolution-Hacks/revolution)
-5. 🗣 Commented on [#8](https://github.com/Revolution-Hacks/revolution/pull/8#issuecomment-2432947302) in [Revolution-Hacks/revolution](https://github.com/Revolution-Hacks/revolution)
 <!--END_SECTION:activity-->
 
 #### Stats
