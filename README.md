@@ -18,6 +18,11 @@ Hey, I'm DillonB07, an immersive media student and game developer. I typically u
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#131](https://github.com/hackclub/workshops/issues/131) in [hackclub/workshops](https://github.com/hackclub/workshops)
+2. 💪 Opened PR [#3](https://github.com/hackclub/mc-ysws/pull/3) in [hackclub/mc-ysws](https://github.com/hackclub/mc-ysws)
+3. 🎉 Merged PR [#4](https://github.com/Transcental/slackeline/pull/4) in [Transcental/slackeline](https://github.com/Transcental/slackeline)
+4. 🎉 Merged PR [#3](https://github.com/Transcental/slackeline/pull/3) in [Transcental/slackeline](https://github.com/Transcental/slackeline)
+5. 🎉 Merged PR [#12](https://github.com/Revolution-Hacks/revolution/pull/12) in [Revolution-Hacks/revolution](https://github.com/Revolution-Hacks/revolution)
 <!--END_SECTION:activity-->
 
 #### Stats
