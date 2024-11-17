@@ -4,7 +4,7 @@
 
 > I joined GitHub **3** years ago.
 
-Since then, I have pushed **3233** commits, opened **187** issues, submitted **118** pull requests, received **45** stars across **135** personal projects and contributed to **37** public repositories.
+Since then, I have pushed **3239** commits, opened **187** issues, submitted **119** pull requests, received **45** stars across **136** personal projects and contributed to **37** public repositories.
 
 <br>
 Hey, I'm transcental, an immersive media student and hacker. I typically use Python, TypeScript or C# for my work.
@@ -14,11 +14,6 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#784](https://github.com/hackclub/high-seas/issues/784#issuecomment-2479794750) in [hackclub/high-seas](https://github.com/hackclub/high-seas)
-2. 🔒 Closed issue [#784](https://github.com/hackclub/high-seas/issues/784) in [hackclub/high-seas](https://github.com/hackclub/high-seas)
-3. 🔒 Closed issue [#743](https://github.com/hackclub/high-seas/issues/743) in [hackclub/high-seas](https://github.com/hackclub/high-seas)
-4. 🗣 Commented on [#743](https://github.com/hackclub/high-seas/issues/743#issuecomment-2477632727) in [hackclub/high-seas](https://github.com/hackclub/high-seas)
-5. 🗣 Commented on [#743](https://github.com/hackclub/high-seas/issues/743#issuecomment-2477586019) in [hackclub/high-seas](https://github.com/hackclub/high-seas)
 <!--END_SECTION:activity-->
 
 #### Stats
