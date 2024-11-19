@@ -14,6 +14,11 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#5](https://github.com/transcental/EventManager/issues/5) in [transcental/EventManager](https://github.com/transcental/EventManager)
+2. ❗ Opened issue [#4](https://github.com/transcental/EventManager/issues/4) in [transcental/EventManager](https://github.com/transcental/EventManager)
+3. ❗ Opened issue [#3](https://github.com/transcental/EventManager/issues/3) in [transcental/EventManager](https://github.com/transcental/EventManager)
+4. ❗ Opened issue [#6](https://github.com/hackclub/channelModTools/issues/6) in [hackclub/channelModTools](https://github.com/hackclub/channelModTools)
+5. ❗ Opened issue [#112](https://github.com/hackclub/infra/issues/112) in [hackclub/infra](https://github.com/hackclub/infra)
 <!--END_SECTION:activity-->
 
 #### Stats
