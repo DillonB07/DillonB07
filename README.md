@@ -4,7 +4,7 @@
 
 > I joined GitHub **3** years ago.
 
-Since then, I have pushed **3273** commits, opened **201** issues, submitted **132** pull requests, received **45** stars across **136** personal projects and contributed to **38** public repositories.
+Since then, I have pushed **3300** commits, opened **202** issues, submitted **132** pull requests, received **45** stars across **136** personal projects and contributed to **39** public repositories.
 
 <br>
 Hey, I'm transcental, an immersive media student and hacker. I typically use Python, TypeScript or C# for my work.
@@ -14,11 +14,6 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51](https://github.com/hackclub/events/pull/51) in [hackclub/events](https://github.com/hackclub/events)
-2. 🎉 Merged PR [#50](https://github.com/hackclub/events/pull/50) in [hackclub/events](https://github.com/hackclub/events)
-3. 🗣 Commented on [#49](https://github.com/hackclub/events/pull/49#issuecomment-2486629034) in [hackclub/events](https://github.com/hackclub/events)
-4. 🗣 Commented on [#49](https://github.com/hackclub/events/pull/49#issuecomment-2486620062) in [hackclub/events](https://github.com/hackclub/events)
-5. 🔒 Closed issue [#48](https://github.com/hackclub/events/issues/48) in [hackclub/events](https://github.com/hackclub/events)
 <!--END_SECTION:activity-->
 
 #### Stats
