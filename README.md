@@ -14,11 +14,6 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/transcental/airbridge/pull/2) in [transcental/airbridge](https://github.com/transcental/airbridge)
-2. 💪 Opened PR [#2](https://github.com/transcental/airbridge/pull/2) in [transcental/airbridge](https://github.com/transcental/airbridge)
-3. 🎉 Merged PR [#1](https://github.com/transcental/airbridge/pull/1) in [transcental/airbridge](https://github.com/transcental/airbridge)
-4. 💪 Opened PR [#1](https://github.com/transcental/airbridge/pull/1) in [transcental/airbridge](https://github.com/transcental/airbridge)
-5. 💪 Opened PR [#100](https://github.com/hackclub/airbridge/pull/100) in [hackclub/airbridge](https://github.com/hackclub/airbridge)
 <!--END_SECTION:activity-->
 
 #### Stats
