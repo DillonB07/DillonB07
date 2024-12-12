@@ -4,7 +4,7 @@
 
 > I joined GitHub **3** years ago.
 
-Since then, I have pushed **3538** commits, opened **209** issues, submitted **158** pull requests, received **45** stars across **139** personal projects and contributed to **40** public repositories.
+Since then, I have pushed **3538** commits, opened **210** issues, submitted **158** pull requests, received **45** stars across **139** personal projects and contributed to **40** public repositories.
 
 <br>
 Hey, I'm transcental, an immersive media student and hacker. I typically use Python, TypeScript or C# for my work.
@@ -14,11 +14,6 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#299](https://github.com/hackclub/toriel/pull/299) in [hackclub/toriel](https://github.com/hackclub/toriel)
-2. 🎉 Merged PR [#28](https://github.com/transcental/Quilter/pull/28) in [transcental/Quilter](https://github.com/transcental/Quilter)
-3. 💪 Opened PR [#28](https://github.com/transcental/Quilter/pull/28) in [transcental/Quilter](https://github.com/transcental/Quilter)
-4. 🎉 Merged PR [#27](https://github.com/transcental/Quilter/pull/27) in [transcental/Quilter](https://github.com/transcental/Quilter)
-5. 💪 Opened PR [#27](https://github.com/transcental/Quilter/pull/27) in [transcental/Quilter](https://github.com/transcental/Quilter)
 <!--END_SECTION:activity-->
 
 #### Stats
